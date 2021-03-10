@@ -16,8 +16,10 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Check out:
+
+Seascapes are cool!
 
 * [seascapeR](https://marinebon.org/seascapeR/)
 
 * [seascapes_app](https://shiny.marinebon.app/seascapes/)
+
