@@ -20,6 +20,7 @@ image:
 ---
 Testing
 
-* **bold**
+* **bold, testing with [Enrique](http://www.imars.usf.edu/users/enrique-montes)**
 
+  ![Enrique](http://www.imars.usf.edu/sites/default/files/styles/thumbnail/public/pictures/picture-284-1506086293.png?itok=mN_MZBBC "Enrique")
 * [google.com](https://google.com)
