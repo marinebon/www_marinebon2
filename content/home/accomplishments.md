@@ -10,12 +10,12 @@ headless: true
 weight: 50
 
 # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-title: 'Accomplish&shy;ments'
+title: 'MBON Projects'
 subtitle:
 
 # Date format
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Jan 2006
+date_format: 02 Jan 2006
 
 # Accomplishments.
 #   Add/remove as many `item` blocks below as you like.
@@ -23,14 +23,14 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
+- certificate_url: https://coastwatch.noaa.gov/cw/satellite-data-products/multi-parameter-models/seascape-pelagic-habitat-classification.html
   date_end: ""
-  date_start: "2018-10-01"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
-  url: ""
+  date_start: ""
+  description: "Biological Indicators From Space"
+  organization: Northern California Current MBON
+  organization_url: https://marinebon.org/pages/nccmbon/
+  title: Seascapes Satellite Imagery Product
+  url: "https://coastwatch.noaa.gov/cw/satellite-data-products/multi-parameter-models/seascape-pelagic-habitat-classification.html"
 - certificate_url: https://www.edx.org
   date_end: ""
   date_start: "2018-03-01"
