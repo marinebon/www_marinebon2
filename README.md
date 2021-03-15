@@ -1,37 +1,29 @@
-<p align="center"><a href="https://wowchemy.com" target="_blank" rel="noopener"><img src="https://wowchemy.com/img/logo_200px.png" alt="Wowchemy Website Builder"></a></p>
+MBON marinebon.org Webite
+--------------------------
+This is a work-in-progress rebuild of the marinebon.org website.
+Details on how to make edits are below.
 
-# Academic Template for [Hugo](https://github.com/gohugoio/hugo)
+# Site Content Editing Workflow
+1. Edit website content files in `/content/` and *commit* the changes to github using one of:
+    * https://marinebon2.netlify.app/admin/ Netlify CMS
+    * Github website file editor interface
+    * prose.io file editor interface
+    * a local dev workflow
+2. Your git commit will show up in the [commit history](https://github.com/marinebon/www_marinebon2/commits/master) and be saved in github's copy of the git repo.
+3. The new commit will trigger Netlify to build and deploy the site. The job will show up at [app.netlify.com/sites/marinebon2/deploys](https://app.netlify.com/sites/marinebon2/deploys).
+4. Once the status of the Netlify deploy build is "Published" your changes should be live on the project website [marinebon2.netlify.app](https://marinebon2.netlify.app/).
+    * Errors in the build can be debugged by looking at the deploy log on netlify
 
-The Hugo **Academic Resumé Template** empowers you to create your job-winning online resumé and showcase your academic publications.
+Above is the most basic workflow for editing the content on this website but advanced users can also develop using the typical git workflow and hugo to do test builds without needing to commit and rely on Netlify builds.
 
-[Check out the latest demo](https://academic-demo.netlify.app) of what you'll get in less than 10 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+# Useful tools
+* [**Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli**): Automatically import publications from BibTeX
+* [**prose.io markdown (+ more) editor**](prose.io): in-browser file editing alternative to github editor
 
-[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs.
+# Upstream Tech
+This website is built starting from the Academic Template for [Hugo](https://github.com/gohugoio/hugo).
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/guide/update/) and [Release Notes](https://wowchemy.com/updates/)
-
-## Crowd-funded open-source software
-
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
-
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
-
-## Ecosystem
-
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli):** Automatically import publications from BibTeX
-
-[![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png)](https://wowchemy.com)
-
-## Demo image credits
-
-- [Open book](https://unsplash.com/photos/J4kK8b9Fgj8)
-- [Course](https://unsplash.com/photos/JKUTrJ4vK00)
-
-<!--
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-academic/readme?pixel)](https://github.com/igrigorik/ga-beacon)
--->
+[**Wowchemy**](https://wowchemy.com) was used to set up this website. 
+The site can be edited your site in Markdown, Jupyter, or RStudio (via Blogdown).
+Netlify is used to build the site with Hugo and deploy hosting on Netlify.
+A CMS is provided for editing the site using Netlify (or is this a Wowchemy tech?).
