@@ -63,6 +63,7 @@ For a feature demo of what is possible on this website [check out the latest dem
 This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
 
 Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+This is a test edit.
 
 **To remove this section, delete `content/home/demo.md`.**
 {{% /callout %}}
