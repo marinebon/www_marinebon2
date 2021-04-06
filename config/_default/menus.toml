@@ -3,23 +3,78 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# ======================================================================
+# === about ============================================================
+# ======================================================================
 [[main]]
-  name = "Home"
+  name = "About us"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "Description"
+  weight = 10
+  parent = "About us"
+  url = "about/description"
+
+[[main]]
+  name = "Mission"
+  weight = 20
+  parent = "About us"
+  url = "about/mission"
+
+[[main]]
+  name = "Vision"
+  weight = 30
+  parent = "About us"
+  url = "about/vision"
+
+[[main]]
+  name = "Guiding Principles"
+  weight = 40
+  parent = "About us"
+  url = "about/guiding_principles"
+
+[[main]]
+  name = "Ethics and Value"
+  weight = 50
+  parent = "About us"
+  url = "about/ethics_and_value"
+
+[[main]]
+  name = "Timeline"
+  weight = 60
+  parent = "About us"
+  url = "about/timeline"
+
+[[main]]
+  name = "People"
+  weight = 70
+  parent = "About us"
+  url = "about/people"
+
+[[main]]
+  name = "Strategy and Implementation"
+  weight = 80
+  parent = "About us"
+  url = "about/strategy_and_implementation"
+# ======================================================================
+# === /about ===========================================================
+# ======================================================================
+
+[[main]]
+  name = "The Network"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "Join MBON"
   url = "#projects"
   weight = 30
+  parent = "Posts"
 
 [[main]]
-  name = "Talks"
+  name = "Media"
   url = "#talks"
   weight = 40
 
@@ -29,7 +84,7 @@
   weight = 50
 
 [[main]]
-  name = "Contact"
+  name = "Contacts"
   url = "#contact"
   weight = 60
 
