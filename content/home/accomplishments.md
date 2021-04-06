@@ -25,7 +25,7 @@ date_format: 02 Jan 2006
 item:
 - certificate_url: https://coastwatch.noaa.gov/cw/satellite-data-products/multi-parameter-models/seascape-pelagic-habitat-classification.html
   date_end: ""
-  date_start: ""
+  date_start: "2020-02-02"
   description: "Biological Indicators From Space"
   organization: Northern California Current MBON
   organization_url: https://marinebon.org/pages/nccmbon/
