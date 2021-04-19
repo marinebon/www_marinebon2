@@ -24,10 +24,10 @@
   url = "about/mission_vision"
   
 [[main]]
-  name = "Guiding Principles"
+  name = "Principles and Goals"
   weight = 30
   parent = "About Us"
-  url = "about/guiding_principles"
+  url = "about/principles_goals"
 
 [[main]]
   name = "Ethics and Values"
