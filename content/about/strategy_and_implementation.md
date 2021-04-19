@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Strategy and Implementation
 summary: An example summary
 date: "2020-04-06"
 
