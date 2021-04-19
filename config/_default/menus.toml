@@ -113,11 +113,11 @@
 
 [[main]]
   name = "Publications"
-  url = "#featured"
+  url = "/publication/"
   weight = 60
 
 [[main]]
   name = "Contacts"
-  url = "#contact"
+  url = "/contacts"
   weight = 70
 
