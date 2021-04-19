@@ -59,6 +59,7 @@ Patricia Miloslavich<br>
 Scientific Committee on Oceanic Research (SCOR), Australia
 
 **Secretariat**
+
 [Joana Soares](mailto:joana.soares@aircentre.org)<br>
 *Executive Secretary*<br>
 AIR Centre, Azores, Portugal 
