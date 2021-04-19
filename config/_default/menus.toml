@@ -18,44 +18,38 @@
   url = "about/description"
 
 [[main]]
-  name = "Mission"
+  name = "Mission and Vision"
   weight = 20
   parent = "About Us"
-  url = "about/mission"
-
-[[main]]
-  name = "Vision"
-  weight = 30
-  parent = "About Us"
-  url = "about/vision"
-
+  url = "about/mission_vision"
+  
 [[main]]
   name = "Guiding Principles"
-  weight = 40
+  weight = 30
   parent = "About Us"
   url = "about/guiding_principles"
 
 [[main]]
   name = "Ethics and Values"
-  weight = 50
+  weight = 40
   parent = "About Us"
   url = "about/ethics_and_values"
 
 [[main]]
   name = "Timeline"
-  weight = 60
+  weight = 50
   parent = "About Us"
   url = "about/timeline"
 
 [[main]]
   name = "People"
-  weight = 70
+  weight = 60
   parent = "About Us"
   url = "about/people"
 
 [[main]]
   name = "Strategy and Implementation"
-  weight = 80
+  weight = 70
   parent = "About Us"
   url = "about/strategy_and_implementation"
   
