@@ -1,7 +1,6 @@
 ---
 title: Principles and Goals
 summary: An example summary
-date: "2020-04-06"
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
