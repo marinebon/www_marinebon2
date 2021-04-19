@@ -36,10 +36,10 @@
   url = "about/guiding_principles"
 
 [[main]]
-  name = "Ethics and Value"
+  name = "Ethics and Values"
   weight = 50
   parent = "About Us"
-  url = "about/ethics_and_value"
+  url = "about/ethics_and_values"
 
 [[main]]
   name = "Timeline"
@@ -78,7 +78,6 @@
   name = "Join MBON"
   url = "#projects"
   weight = 40
-  parent = "Posts"
 # ======================================================================
 # === /news and events ===========================================================
 # ======================================================================
