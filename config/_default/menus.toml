@@ -7,86 +7,118 @@
 # === about ============================================================
 # ======================================================================
 [[main]]
-  name = "About us"
+  name = "About Us"
   url = "#about"
   weight = 10
 
 [[main]]
   name = "Description"
   weight = 10
-  parent = "About us"
+  parent = "About Us"
   url = "about/description"
 
 [[main]]
   name = "Mission"
   weight = 20
-  parent = "About us"
+  parent = "About Us"
   url = "about/mission"
 
 [[main]]
   name = "Vision"
   weight = 30
-  parent = "About us"
+  parent = "About Us"
   url = "about/vision"
 
 [[main]]
   name = "Guiding Principles"
   weight = 40
-  parent = "About us"
+  parent = "About Us"
   url = "about/guiding_principles"
 
 [[main]]
   name = "Ethics and Value"
   weight = 50
-  parent = "About us"
+  parent = "About Us"
   url = "about/ethics_and_value"
 
 [[main]]
   name = "Timeline"
   weight = 60
-  parent = "About us"
+  parent = "About Us"
   url = "about/timeline"
 
 [[main]]
   name = "People"
   weight = 70
-  parent = "About us"
+  parent = "About Us"
   url = "about/people"
 
 [[main]]
   name = "Strategy and Implementation"
   weight = 80
-  parent = "About us"
+  parent = "About Us"
   url = "about/strategy_and_implementation"
+  
+  
 # ======================================================================
 # === /about ===========================================================
 # ======================================================================
 
 [[main]]
   name = "The Network"
-  url = "#posts"
+  url = "#network"
   weight = 20
+
+[[main]]
+  name = "Products"
+  url = "#products"
+  weight = 30
 
 [[main]]
   name = "Join MBON"
   url = "#projects"
-  weight = 30
-  parent = "Posts"
-
-[[main]]
-  name = "Media"
-  url = "#talks"
   weight = 40
+  parent = "Posts"
+# ======================================================================
+# === /news and events ===========================================================
+# ======================================================================
+[[main]]
+  name = "News and Events"
+  url = "#news_events"
+  weight = 50
+  
+ [[main]]
+  name = "News"
+  weight = 10
+  parent = "News and Events"
+  url = "news_events/news"
+ 
+  [[main]]
+  name = "Events"
+  weight = 20
+  parent = "News and Events"
+  url = "news_events/events"
+ 
+  [[main]]
+  name = "Publications"
+  weight = 30
+  parent = "News and Events"
+  url = "news_events/publications"
+
+
+# ======================================================================
+# === /news and events ===========================================================
+# ======================================================================
 
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Contacts"
   url = "#contact"
-  weight = 60
+  weight = 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/resume.pdf` and uncomment the lines below.
