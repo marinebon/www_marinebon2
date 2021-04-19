@@ -1,6 +1,6 @@
 ---
 title: Environmental DNA reveals seasonal shifts and potential interactions in a
-  marine community.
+  marine community
 publication_types:
   - "2"
 authors:
