@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Description
 summary: An example summary
 date: "2020-04-06"
 
@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+The Marine Biodiversity Observation Network (MBON) is a thematic node of the Group on Earth Observations Biodiversity Observation Network (GEO BON). MBON is a global collaborative initiative that contributes to effective management of marine biodiversity and ecosystem services. 
