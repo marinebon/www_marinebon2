@@ -1,5 +1,5 @@
 ---
-title: An example title
+title: Mission
 summary: An example summary
 date: "2020-04-06"
 
