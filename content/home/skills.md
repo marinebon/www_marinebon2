@@ -1,45 +1,19 @@
 ---
-# An instance of the Featurette widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
-widget: featurette
+title: About MBON
+summary: An example summary
+date: "2020-04-06"
 
-# This file represents a page section.
-headless: true
+reading_time: false  # Show estimated reading time?
+share: false  # Show social sharing links?
+profile: false  # Show author profile?
+comments: false  # Show comments?
 
-# Order that this section appears on the page.
-weight: 30
-
-title: Skills
-subtitle:
-
-# Showcase personal skills or business features.
-# - Add/remove as many `feature` blocks below as you like.
-# - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: 100%
-  icon: chart-line
-  icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
-  icon_pack: fas
-  name: Photography
-
-# Uncomment to use emoji icons.
-#- icon: ":smile:"
-#  icon_pack: "emoji"
-#  name: "Emojiness"
-#  description: "100%"  
-
-# Uncomment to use custom SVG icons.
-# Place custom SVG icon in `assets/images/icon-pack/`, creating folders if necessary.
-# Reference the SVG icon name (without `.svg` extension) in the `icon` field.
-#- icon: "your-custom-icon-name"
-#  icon_pack: "custom"
-#  name: "Surfing"
-#  description: "90%"
+# Optional header image (relative to `assets/media/` folder).
+header:
+  caption: ""
+  image: ""
 ---
+
+The Marine Biodiversity Observation Network (MBON) is a growing global initiative composed of regional networks of scientists, resource managers, and end-users working to integrate data from existing long-term programs to improve our understanding of changes and connections between marine biodiversity and ecosystem functions.
+
+The U.S. MBON projects are integrating independent historical and current biology and ecosystem surveys with new observations, and expanding application of remote sensing methods, novel molecular (eDNA) technologies, traditional environmental research tools, and coordinated experiments.
