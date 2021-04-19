@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-Add your *content* here...
+The MBON Strategic and Implementation Plan reflects the ocean observing community engagement to deliver a common vision, stronger statement, and steady partnership to achieve a sustained system of global ocean observations and data management.
