@@ -2,7 +2,7 @@
 title: Calibrating Environmental DNA Metabarcoding to Conventional Surveys for
   Measuring Fish Species Richness
 publication_types:
-  - "0"
+  - "2"
 authors:
   - McElroy M. E.
   - Dressler T. L.
