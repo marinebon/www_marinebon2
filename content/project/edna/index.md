@@ -1,26 +1,20 @@
 ---
-title: eDNA
-subtitle: environmental DNA
+title: Arctic MBON
+subtitle: ""
 date: 2021-02-11T07:16:46.759Z
-summary: Summary here
+summary: AMBON is working towards a sustainable approach to biodiversity
+  observing in the Chukchi Sea as one component of the development of a national
+  MBON.
 draft: false
 featured: true
-authors:
-  - Ben Best
-tags:
-  - eDNA
-categories:
-  - eDNAcat
-external_link: https://google.com
+authors: []
+tags: []
+categories: []
+external_link: https://marinebon.org/pages/ambon/
 image:
-  filename: featured.png
+  filename: ""
   focal_point: Smart
   preview_only: false
-  caption: Testing with image
+  caption: ""
 ---
-Testing
-
-* **bold, testing with [Enrique](http://www.imars.usf.edu/users/enrique-montes)**
-
-  ![Enrique]( "Enrique")
-* [google.com](https://google.com)
+AMBON is working towards a sustainable approach to biodiversity observing in the Chukchi Sea as one component of the development of a national MBON.
