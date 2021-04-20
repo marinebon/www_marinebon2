@@ -10,6 +10,6 @@ design:
     text_color_light: false
     image_darken: 0
     color: "#ffffff"
-    image: /static/media/mbon_goos_framework.png
+    image: ""
 ---
-![]()
+![](/static/media/mbon_goos_framework.png)
