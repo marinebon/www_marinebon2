@@ -9,7 +9,8 @@ draft: false
 featured: true
 authors: []
 tags: []
-categories: []
+categories:
+  - U.S. MBON
 external_link: https://marinebon.org/pages/ambon/
 image:
   filename: ""
