@@ -98,7 +98,7 @@
   name = "News"
   weight = 10
   parent = "News and Events"
-  url = "#posts"
+  url = "/posts/"
  
   [[main]]
   name = "Events"
