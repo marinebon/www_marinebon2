@@ -2,7 +2,7 @@
 advanced:
   css_style: ""
   css_class: ""
-widget: demo
+widget: blank
 widget_id: home-page
 headless: true
 weight: 15
