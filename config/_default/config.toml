@@ -20,8 +20,7 @@ copyright = ""
 ## Advanced options below ##
 ############################
 
-# Get last modified date for content from Git?
-enableGitInfo = false
+
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
