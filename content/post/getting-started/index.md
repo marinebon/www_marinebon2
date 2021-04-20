@@ -9,19 +9,15 @@ summary: "Programme proposal: submitted by MBON partners to the first call for
   Ocean Decade) from the Intergovernmental Oceanographic Commission (IOC). "
 draft: false
 featured: false
-authors:
-  - admin
-  - 吳恩達
+authors: []
 lastmod: 2020-12-13T00:00:00Z
-tags:
-  - Academic
-  - 开源
+tags: []
 categories:
   - Demo
-  - 教程
+  - ""
 projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)"
+  caption: ""
   focal_point: ""
   placement: 2
   preview_only: false
