@@ -9,5 +9,6 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+    color: "#ffffff"
 ---
 ![](../../images/mbon_goos_framework.png)
