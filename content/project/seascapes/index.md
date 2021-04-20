@@ -8,7 +8,8 @@ draft: false
 featured: false
 authors: []
 tags: []
-categories: []
+categories:
+  - U.S.MBON
 external_link: https://marinebon.org/seascapeR/
 image:
   filename: ""
