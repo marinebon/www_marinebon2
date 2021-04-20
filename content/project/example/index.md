@@ -8,7 +8,7 @@ summary: This project will integrate remote sensing products, *in situ* data a
   Ocean Energy Management, and State of California.
 url_video: ""
 tags:
-  - Deep Learning
+  - U.S. MBON
 external_link: https://marinebon.org/pages/ccmbon/
 url_slides: ""
 title: Central California
@@ -16,5 +16,6 @@ links: []
 image:
   caption: ""
   focal_point: Smart
+  filename: null
 url_code: ""
 ---
