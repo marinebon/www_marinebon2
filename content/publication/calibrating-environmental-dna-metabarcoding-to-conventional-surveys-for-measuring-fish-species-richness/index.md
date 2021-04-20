@@ -24,7 +24,7 @@ authors:
   - Selkoe K. A.
   - Jerde C. L.
 doi: https://doi.org/10.3389/fevo.2020.00276
-publication: Frontiers in Ecology and Evolution 8, 276 (2020).
+publication: Frontiers in Ecology and Evolution 8, 276
 draft: false
 featured: false
 image:
