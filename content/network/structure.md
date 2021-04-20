@@ -17,7 +17,7 @@ header:
 **MBONs**
 
 Asia-Pacific MBON (AP MBON)<br>
-US MBON (new link?)
+US MBON
 
 **Partners**
 
@@ -25,7 +25,7 @@ US MBON (new link?)
 [Global Ocean Observing System (GOOS)](http://ioc-goos.org/)<br>
 [Ocean Biogeographic Integrated System (OBIS)](https://obis.org/)<br>
 [Ocean Best Practices (OBPs)](https://www.oceanbestpractices.org/)<br>
-[International Ocean Colour Coordination Group(IOCCG)](https://ioccg.org/)<br>
+[International Ocean Colour Coordination Group (IOCCG)](https://ioccg.org/)<br>
 [U.S. Integrated Ocean Observing System (IOOS)](https://ioos.noaa.gov/)<br>
 [Marine Global Earth Observatory (marineGEO)](https://marinegeo.si.edu/)<br>
 [Global Coral Reef Monitoring Network (GCRMN)](https://gcrmn.net/)<br>
