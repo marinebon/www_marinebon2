@@ -6,6 +6,8 @@ headless: true
 weight: 10
 design:
   columns: "1"
+  background:
+    image: /static/media/mbon_goos_framework.png
 ---
 test test 
 
