@@ -4,25 +4,8 @@ title: Calibrating Environmental DNA Metabarcoding to Conventional Surveys for
 publication_types:
   - "2"
 authors:
-  - McElroy M. E.
-  - Dressler T. L.
-  - Titcomb G. C.
-  - Wilson E. A.
-  - Deiner K.
-  - Dudley T. L.
-  - Eliason E. J.
-  - Evans N. T.
-  - Gaines S. D.
-  - Lafferty K.D.
-  - Lamberti G. A.
-  - Li Y.
-  - Lodge D. M.
-  - Love M. S.
-  - Mahon A. R.
-  - Pfrender M. E.
-  - Renshaw M. A.
-  - Selkoe K. A.
-  - Jerde C. L.
+  - McElroy M.
+  - Dressler T. et.al.
 doi: https://doi.org/10.3389/fevo.2020.00276
 publication: "2020"
 publication_short: Frontiers in Ecology and Evolution 8, 276
