@@ -64,7 +64,7 @@
 
 [[main]]
   name = "The Network"
-  url = "network"
+  url = "/network"
   weight = 20
   
 [[main]]
