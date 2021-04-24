@@ -39,7 +39,7 @@ This is useful for editing without needing to do a commit - something that is es
 * [**prose.io markdown (+ more) editor**](prose.io): in-browser file editing alternative to github editor
 
 # Upstream Tech
-This website is built starting from the Academic Template for [Hugo](https://github.com/gohugoio/hugo).
+This website is built starting from the [Academic Template](https://github.com/wowchemy/starter-academic) for [Hugo](https://github.com/gohugoio/hugo).
 
 [**Wowchemy**](https://wowchemy.com) was used to set up this website. 
 The site can be edited your site in Markdown, Jupyter, or RStudio (via Blogdown).
