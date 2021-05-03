@@ -9,5 +9,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: /static/media/intro_image_test4-bb.png
+    image: intro_image_test4-bb.png
 ---
