@@ -10,4 +10,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-![](mbon_goos_framework.png)
+![](/assets/media/mbon_goos_framework.png)
