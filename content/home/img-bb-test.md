@@ -9,5 +9,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: intro_image_test4-bb.png
+    image: /assets/media/mbon_goos_framework.png
 ---
