@@ -5,17 +5,17 @@
 
 # Appearance
 
-theme: minimal
+theme: ocean
 day_night: true
 font: ''
-font_size: L
+font_size: M
 
 # SEO
 
-site_type: Person
+site_type: Organization
 local_business_type: ''
 org_name: ''
-description: ''
+description: 'Marine Biodiversity Observation Network'
 twitter: ''
 
 # Contact (edit or remove options as required)
@@ -76,7 +76,7 @@ address_format: en-us
 
 highlight: true
 highlight_languages:
-  - r
+  - [r, bash, markdown, json, python, sql, toml, yaml]
 math: false
 diagram: false
 privacy_pack: false
@@ -94,6 +94,7 @@ show_related:
   post: true
   project: true
   publication: true
+  talk: true
   event: true
 reading_time: true
 section_pager: false
@@ -141,11 +142,25 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: ''
+  # To show your address on a map in the Contact widget, enter your latitude and longitude (above)
+  # and choose a map provider below.
+  #
+  # To use Google Maps, set `engine` to 1 and enter your API key that can be obtained here:
+  #   https://developers.google.com/maps/documentation/javascript/get-api-key
+  # To use OpenStreetMap tiles, set `engine` to 2.
+  # To use OpenStreetMap on a high traffic site, set `engine` to 3 and enter your API key that can be obtained here:
+  #   https://www.mapbox.com/studio/account/tokens
+  #
+  # Map provider:
+  #   "": No map
+  #   "google": Google Maps
+  #   "mapnik": OpenStreetMap (Mapnik)
+  #   "mapbox": OpenStreetMap (Mapbox)
+  provider: 'mapnik'
   api_key: ''
   zoom: 15
 marketing:
-  google_analytics: ''
+  google_analytics: 'UA-166986086-1'
   google_tag_manager: ''
   google_site_verification: ''
   baidu_site_verification: ''
@@ -155,4 +170,4 @@ cms:
   local_backend: false
 icon:
   pack:
-    ai: true
+    ai: true # Academicons icon pack https://jpswalsh.github.io/academicons/

@@ -4,24 +4,74 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
-    url: '#about'
+  # about ----
+  - name:   'About Us'
+    url:    '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name:   'Description'
+    parent: 'About Us'
+    url:    'about/description'
+    weight: 10
+  - name:   'Mission and Vision'
     weight: 20
-  - name: Projects
-    url: '#projects'
+    parent: 'About Us'
+    url:    'about/mission_vision'
+  - name:   'Principles and Goals'
     weight: 30
-  - name: Talks
-    url: '#talks'
+    parent: 'About Us'
+    url:    'about/principles_goals'
+  - name:   'Ethics and Values'
     weight: 40
-  - name: Publications
-    url: '#featured'
+    parent: 'About Us'
+    url:    'about/ethics_and_values'
+  - name:   'Timeline'
     weight: 50
-  - name: Contact
-    url: '#contact'
+    parent: 'About Us'
+    url:    'about/timeline'
+  - name:   'People'
     weight: 60
+    parent: 'About Us'
+    url:    'about/people'
+  - name:   'Strategy and Implementation'
+    weight: 70
+    parent: 'About Us'
+    url:    'about/strategy_and_implementation'
+  # network ----
+  - name:   'The Network'
+    weight: 20
+    url:    'network'
+  - name:   'Network Structure'
+    weight: 10
+    parent: 'The Network'
+    url:    'network'
+  # products ----
+  - name:   'Products'
+    url:    '#products'
+    weight: 30
+  # projects ----
+  - name:   'Join MBON'
+    url:    '#projects'
+    weight: 40
+  # news_events ----
+  - name:   'News and Events'
+    weight: 50
+    url:    '#news_events'
+  - name:   'News'
+    weight: 10
+    parent: 'News and Events'
+    url:    '/post/'
+  - name:   'Events'
+    weight: 20
+    parent: 'News and Events'
+    url:    'news_events/events'
+  # news_events ----
+  - name:   'Publications'
+    url:    '/publication/'
+    weight: 60
+  # contacts ----
+  - name:   'Contacts'
+    url:    '/contacts'
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
