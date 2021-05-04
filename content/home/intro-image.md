@@ -11,3 +11,4 @@ design:
     image_darken: 0
     image: mbon_goos_framework.png
 ---
+![](mbon_goos_framework.png)
