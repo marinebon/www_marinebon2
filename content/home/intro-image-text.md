@@ -10,4 +10,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-![](https://marinebon2.netlify.app/media/mbon_goos_framework.png)
+![](/media/mbon_goos_framework.png)
