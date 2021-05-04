@@ -10,8 +10,8 @@ collections:
     folder: 'content/home'
     path: '{{slug}}'
     # When specifying a path on a folder collection, media_folder defaults to an empty string, so make it explicit.
-    media_folder: '/static/media'
-    public_folder: ''
+    #media_folder: '/assets/media'
+    #public_folder: ''
     summary: "{{filename}}: {{title}}"
     identifier_field: "widget_id"
     create: true
@@ -58,8 +58,8 @@ collections:
                 widget: "image"
                 required: false
                 # When specifying a path on a folder collection, media_folder defaults to an empty string, so make it explicit.
-                media_folder: '/static/media'
-                public_folder: ''
+                #media_folder: '/assets/media'
+                #public_folder: ''
                 media_library:
                   config:
                     multiple: false
