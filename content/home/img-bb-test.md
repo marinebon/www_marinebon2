@@ -9,5 +9,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: /assets/media/mbon_goos_framework.png
+    image: mbon_goos_framework.png
 ---
