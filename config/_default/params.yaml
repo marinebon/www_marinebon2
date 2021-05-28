@@ -96,7 +96,7 @@ show_related:
   publication: true
   talk: true
   event: true
-reading_time: true
+reading_time: false
 section_pager: false
 docs_section_pager: true
 sharing: true
@@ -108,9 +108,6 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 abstract_length: 135
 plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
 publications:
   date_format: January 2006
   citation_style: apa
