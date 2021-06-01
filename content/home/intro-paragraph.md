@@ -9,7 +9,7 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    image: ""
+    image: intro_image_test2.png
 ---
 ![]()
 
