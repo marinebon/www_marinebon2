@@ -2,9 +2,7 @@
 title: Watching for Changes in Marine Biodiversity
 subtitle: ""
 date: 2021-06-01T18:25:04.255Z
-summary: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
-  Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
-  Jeffrey Runge, University of Maine, MBON*"
+summary: ""
 draft: false
 featured: false
 image:
