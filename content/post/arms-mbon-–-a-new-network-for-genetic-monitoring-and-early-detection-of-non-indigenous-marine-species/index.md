@@ -19,7 +19,7 @@ As part of a global initiative originally developed by the Smithsonian Institute
 
 ARMS units are stacks of plates that mimic the complex structure of the sea bottom. Acting as hotels for marine species, they are colonised soon after being deployed. After a few months or years, they are collected, and replaced. Using genetic methods, image analysis and visual inspection methods, it is possible to identify the encrusting species (e.g. coral and algae) as well as motile organisms (e.g. crustacea, molluscs) that have made the structure their home. Robust analyses, however rely upon a network of marine taxonomists and bioinformaticians, something that can be provided by the supporting infrastructure networks such as EMBRC.
 
-![An Autonomous Reef Monitoring Structure](https://marinebon.org/images/arms_mbon.png)
+![An Autonomous Reef Monitoring Structure](arms_mbon.png)
 
 An Autonomous Reef Monitoring Structure (credit: Joanna Norkko).
 
