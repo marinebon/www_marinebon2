@@ -2,9 +2,7 @@
 title: "MBON Pole to Pole Progress: GEO BON MBON Webinar and Community Discussion"
 subtitle: ""
 date: 2021-06-01T18:32:08.948Z
-summary: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
-  Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
-  Jeffrey Runge, University of Maine, MBON*"
+summary: ""
 draft: false
 featured: false
 image:
