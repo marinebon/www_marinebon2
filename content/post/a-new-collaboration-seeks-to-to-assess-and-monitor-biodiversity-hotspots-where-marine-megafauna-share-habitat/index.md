@@ -3,9 +3,7 @@ title: A New Collaboration Seeks to to Assess and Monitor Biodiversity Hotspots
   where Marine Megafauna Share Habitat
 subtitle: ""
 date: 2021-06-01T18:15:12.702Z
-summary: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
-  Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
-  Jeffrey Runge, University of Maine, MBON*"
+summary: ""
 draft: false
 featured: false
 image:
