@@ -21,7 +21,7 @@ ARMS units are stacks of plates that mimic the complex structure of the sea bott
 
 ![An Autonomous Reef Monitoring Structure](arms_mbon.png)
 
-An Autonomous Reef Monitoring Structure (credit: Joanna Norkko).
+###### An Autonomous Reef Monitoring Structure (credit: Joanna Norkko).
 
 “On a single structure in Crete, we were able to identify the presence of fifteen non-indigenous species. We knew that the region was under extreme pressure from maritime traffic from the Red Sea, but were really surprised to see that the number was this high. Genetic monitoring allows alien species to be identified much earlier than by any conventional sampling method”, says Matthias Obst, Associate Professor at the University of Gothenburg and lead author of the recent publication in Frontiers in Marine Science that outlines the initial findings of the network.
 
