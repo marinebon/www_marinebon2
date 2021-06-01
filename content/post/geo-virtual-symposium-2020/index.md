@@ -2,9 +2,7 @@
 title: GEO Virtual Symposium 2020
 subtitle: ""
 date: 2021-06-01T18:25:48.241Z
-summary: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
-  Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
-  Jeffrey Runge, University of Maine, MBON*"
+summary: ""
 draft: false
 featured: false
 image:
