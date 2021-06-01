@@ -2,9 +2,7 @@
 title: Global MBON Seascapes Now Available on CoastWatch
 subtitle: ""
 date: 2021-06-01T18:31:53.194Z
-summary: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
-  Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
-  Jeffrey Runge, University of Maine, MBON*"
+summary: ""
 draft: false
 featured: false
 image:
