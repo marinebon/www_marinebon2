@@ -29,6 +29,15 @@ Above is the most basic workflow for editing the content on this website but adv
 Modify the `./config/_default/menus.toml` entries to define menu items.
 To define sub-menu items use the `parent` attribute as explained [in this issue](github.com/wowchemy/wowchemy-hugo-modules#72).
 
+## Editing publications
+based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs/content/publications/#import-from-bibtex)
+1. modify `/content/publication/MBON_publications.bib`
+2. git clone & cd into repo on your local
+3. cd into the `/content/` directory? (not sure yet)
+4. `academic import --normalize --bibtex content/publication/MBON_publications.bib` to run the python import script
+5. `git commit -a -m 'update pubs'
+6. `git push`
+
 ## Local Dev Workflow
 Wowchemy is designed to leverage lots of free cloud tools to allow CMS & WYSiWYG editing with minimal technical knowledge, but sometimes digging deeper into things is helpful.
 The [wowchemy "edit on your pc" page](https://wowchemy.com/docs/getting-started/install-hugo-extended/) outlines how to get set up building the site on your local machine rather than relying on netlify (or github actions or travis CI or whatever).
