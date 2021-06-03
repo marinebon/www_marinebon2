@@ -15,3 +15,6 @@ The Marine Biodiversity Observation Network (MBON) is a thematic node of the Gro
 
 
 ![mbon_components.jpg](/assets/media/mbon_components.jpg)
+
+![mbon_components.jpg]({{site.baseurl}}/content/about/mbon_components.jpg)
+
