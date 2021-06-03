@@ -11,6 +11,7 @@ authors: []
 tags: []
 categories:
   - U.S. MBON
+external_link: " "
 image:
   filename: ambon_map-2.png
   focal_point: Smart
