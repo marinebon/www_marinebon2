@@ -11,7 +11,6 @@ authors: []
 tags: []
 categories:
   - U.S. MBON
-external_link: https://marinebon.org/pages/ambon/
 image:
   filename: ambon_map-2.png
   focal_point: Smart
