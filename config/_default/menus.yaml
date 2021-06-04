@@ -49,7 +49,7 @@ main:
     url:    '#products'
     weight: 30
   # projects ----
-  - name:   'Join MBON'
+  - name:   'Projects'
     url:    '#projects'
     weight: 40
   # news_events ----
