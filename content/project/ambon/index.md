@@ -1,10 +1,7 @@
 ---
 title: Gulf of Maine MBON
 subtitle: ""
-summary: The Gulf of Maine (GoM) lies at the epicenter of the most rapid warming
-  trend in U.S. coastal waters. The GoM ecosystem supports the most valuable
-  U.S. fishery (lobster) and the most valuable U.S. fishing seaport (New
-  Bedford).
+summary: Unprecedented changes are occurring in the Arctic and affect all components of Arctic marine ecosystems, including humans. However, consistent, long-term observations for planning and adaptation are currently lacking in the Arctic Ocean.
 draft: false
 featured: true
 
