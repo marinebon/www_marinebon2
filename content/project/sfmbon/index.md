@@ -8,7 +8,7 @@ This project will build on the foundations laid by the present Sanctuaries MBON 
 
 <img src="sfmbon_map-2.png" alt="South Florida MBON Map">
 <span style="font-size: .75em;">Geographic domain of the South Florida MBON project. Red dots indicate stations sampled during bi-monthly cruises in collaboration with NOAA’s South Florida Program, led by the Atlantic Oceanographic and Meteorological Laboratory (SFP-AOML) aboard the R/V Walton Smith. Image shown is a Red-Green-Blue composite from MODIS-Terra collected on March 1, 2014.</span><br>
-
+<br>
 The objectives are to: 
 
 *   Further integrate and synthesize information from ongoing monitoring programs through the Integrated Ocean Observing System (IOOS).
