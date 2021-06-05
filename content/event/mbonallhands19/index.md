@@ -1,16 +1,21 @@
 ---
-title: MBON All Hands Meeting
+abstract: " "
 summary: " "
-location: "Nanjing, China"
 date: 2018-10-19
 date_end: 2018-10-21
+event_url: " "
 authors: []
 url_video: ""
 featured: false
 url_slides: ""
+title: MBON All Hands Meeting
+location: Nanjing, China
 all_day: true
 event: Kavli Frontiers of Science, 18th Chinese-American Symposium
 publishDate: 2021-06-04T23:43:43.521Z
+image:
+  preview_only: true
+  filename: ecosystem_shifts_ad.png
 ---
 
 <div style="width:100%; float:center; text-align:center; font-size: smaller;">
