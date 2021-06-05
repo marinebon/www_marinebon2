@@ -5,29 +5,18 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
   condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
   urna, suscipit quis sapien eu, pulvinar tempor diam.
 location: " Nanjing, China"
-date: 2018-10-19T23:43:43.510Z
-date_end: 2018-10-21T15:00:00.000Z
-links:
-  - icon: ""
-    icon_pack: null
-    name: ""
-    url: " "
+date: 2018-10-19
+date_end: 2018-10-21
 event: Kavli Frontiers of Science, 18th Chinese-American Symposium
-event_url: " "
 publishDate: 2021-06-04T23:43:43.521Z
 slides: ""
 url_pdf: ""
-summary: An example talk using Wowchemy's Markdown slides feature.
+summary: Anni Djurhuus
 featured: false
 authors: []
 url_video: ""
 url_slides: ""
-address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: "94305"
-  country: United States
+
 tags: []
 projects:
   - example
