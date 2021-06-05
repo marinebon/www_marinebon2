@@ -4,9 +4,9 @@ summary: This project will integrate remote sensing products, *in situ* data a
   models in support of long term needs of the NOAA California Current Integrated
   Ecosystem Assessment (CCIEA), Office of National Marine Sanctuaries, Bureau of
   Ocean Energy Management, and State of California.
-draft: false
-  tags:
+tags:
 - US
+draft: false
 ---
 This project will integrate remote sensing products, *in situ* data and models in support of long term needs of the NOAA California Current Integrated Ecosystem Assessment (CCIEA), Office of National Marine Sanctuaries, Bureau of Ocean Energy Management, and State of California. The goal is to quantify relationships between climate, the ocean environment (physics, chemistry) and marine food webs (from microbes to fish and top predators), with the aim of providing predictive understanding of marine ecosystem responses to environmental change.
 
