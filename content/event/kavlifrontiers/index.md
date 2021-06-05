@@ -10,7 +10,6 @@ url_slides: ""
 title: Kavli Frontiers of Science, 18th Chinese-American Symposium
 location: Nanjing, China
 all_day: true
-event: Kavli Frontiers of Science, 18th Chinese-American Symposium
 publishDate: 2021-06-04T23:43:43.521Z
 image:
   filename: featured.png
