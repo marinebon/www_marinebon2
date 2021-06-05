@@ -18,7 +18,7 @@ image:
   preview_only: true
 ---
 <div style="width:100%; float:center; text-align:center; font-size: smaller;">
-<a href="https://vimeo.com/297203776" target="_blank"><img src="ecosystem_shifts_ad.png"><br>
+<a href="https://vimeo.com/297203776" target="_blank"><img src="ecosystem_shifts_ad.png">
 Tracking Ecosystem Shifts, from Microbes to Mammals, with Environmental DNA</a><br>
 Anni Djurhuus<br><a href="https://vimeo.com/297203776" target="_blank">Watch video here</a>
 </div>
