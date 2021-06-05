@@ -7,7 +7,7 @@ title: Recent News
 subtitle: null
 content:
   page_type: post
-  count: 5
+  count: 3
   filters:
     author: ""
     category: ""
