@@ -15,7 +15,7 @@ event: Kavli Frontiers of Science, 18th Chinese-American Symposium
 publishDate: 2021-06-04T23:43:43.521Z
 image:
   preview_only: true
-  filename: ecosystem_shifts_ad.png
+  filename: ""
 ---
 
 <div style="width:100%; float:center; text-align:center; font-size: smaller;">
