@@ -1,6 +1,6 @@
 ---
 title: MBON All Hands Meeting
-summary: ""
+summary: " "
 location: "Nanjing, China"
 date: 2018-10-19
 date_end: 2018-10-21
