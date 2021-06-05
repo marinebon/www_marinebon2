@@ -1,17 +1,12 @@
 ---
 title: Central California MBON
-subtitle: ""
-date: 2021-06-03T17:04:36.602Z
 summary: This project will integrate remote sensing products, *in situ* data and
   models in support of long term needs of the NOAA California Current Integrated
   Ecosystem Assessment (CCIEA), Office of National Marine Sanctuaries, Bureau of
   Ocean Energy Management, and State of California.
 draft: false
-featured: true
-authors: []
-tags: []
-categories:
-  - U.S. MBON
+  tags:
+- US
 ---
 This project will integrate remote sensing products, *in situ* data and models in support of long term needs of the NOAA California Current Integrated Ecosystem Assessment (CCIEA), Office of National Marine Sanctuaries, Bureau of Ocean Energy Management, and State of California. The goal is to quantify relationships between climate, the ocean environment (physics, chemistry) and marine food webs (from microbes to fish and top predators), with the aim of providing predictive understanding of marine ecosystem responses to environmental change.
 
