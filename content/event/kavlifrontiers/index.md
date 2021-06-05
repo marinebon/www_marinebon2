@@ -1,6 +1,7 @@
 ---
 title: Kavli Frontiers of Science, 18th Chinese-American Symposium
-location: " Nanjing, China"
+summary: Presentations from the Kavli Frontiers of Science event.
+location: "Nanjing, China"
 date: 2018-10-19
 date_end: 2018-10-21
 authors: []
