@@ -4,7 +4,7 @@ summary: Unprecedented changes are occurring in the Arctic and affect all
   components of Arctic marine ecosystems, including humans. However, consistent,
   long-term observations for planning and adaptation are currently lacking in
   the Arctic Ocean.
-  tags:
+tags:
 - US
 draft: false
 ---
