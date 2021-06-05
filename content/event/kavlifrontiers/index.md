@@ -1,6 +1,5 @@
 ---
-abstract: " "
-summary: Presentations from the Kavli Frontiers of Science event.
+summary: " "
 date: 2018-10-19
 date_end: 2018-10-21
 event_url: " "
