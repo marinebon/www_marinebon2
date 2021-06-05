@@ -6,7 +6,6 @@ summary: ""
 location: " Nanjing, China"
 date: 2018-10-19
 date_end: 2018-10-21
-event_url: "  "
 authors: []
 url_video: ""
 featured: false
