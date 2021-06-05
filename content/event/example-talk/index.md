@@ -1,9 +1,5 @@
 ---
 title: Tracking Ecosystem Shifts, from Microbes to Mammals, with Environmental DNA
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam.
 location: " Nanjing, China"
 date: 2018-10-19
 date_end: 2018-10-21
@@ -18,8 +14,6 @@ url_video: ""
 url_slides: ""
 
 tags: []
-projects:
-  - example
 image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
