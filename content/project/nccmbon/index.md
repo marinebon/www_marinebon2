@@ -4,7 +4,6 @@ summary: The goal of this project is to extend the observational framework of US
 tags:
 - US
 draft: false
-
 ---
 The goal of this project is to extend the observational framework of US MBON to the Pacific Northwest - a region that presents unique hydrological, ecological, and socio-economic interactions with marine biodiversity, but also has a long history of ocean observing. Specifically, the project will:
 
