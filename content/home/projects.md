@@ -28,7 +28,7 @@ content:
   - name: All
     tag: '*'
   - name: U.S.
-    tag: U.S.
+    tag: US
   - name: Global
     tag: Global
 
