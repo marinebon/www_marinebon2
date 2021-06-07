@@ -11,7 +11,7 @@ MBON Pole to Pole is on the web: MBON is developing a Community of Practice acro
 **Background**<br>
 In October 2017, NASA announced the winning projects for the ROSES A.50 Group on Earth Observations (GEO) Work Programme solicitation. The MBON Pole to Pole effort - “Laying the foundations of the Pole-to-Pole Marine Biodiversity Observation Network of the Americas” - was one of 32 funded programs.
 
-<img src="mbon_sites.jpg"><br>
+<img src="mbon_sites.jpg">
 
 MBON Pole to Pole seeks to facilitate the integration of biological and environmental data for countries along the Pacific and Atlantic coasts of the Americas, from the Arctic to Antarctica. Changes in marine biodiversity are being documented in these regions (Cruz et al., 2003; Escribano et al., 2003; Miloslavich et al., 2011; Taylor et al, 2012) but effective decision-making requires an detailed understanding of these changes. The Pole-to-Pole (P2P) MBON initiative was conceived as a network of cooperating research institutions, marine laboratories, parks, and reserves that seek to address common problems related to sustaining ecosystem services through conservation ecology.
 
