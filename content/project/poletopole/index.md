@@ -1,6 +1,6 @@
 ---
 title: MBON Pole to Pole
-summary: MBON Pole to Pole seeks to facilitate the integration of biological and environmental data for countries along the Pacific and Atlantic coasts of the Americas, from the Arctic to Antarctica. 
+summary: In 2019, GEO BON announced establishment of Asia-Pacific MBON to further development of marine biodiversity science in the Asia-Pacific region, as a sub-group of the MBON and Asia-Pacific BON networks of GEO BON.
 tags:
 - Global
 draft: false
