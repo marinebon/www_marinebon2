@@ -31,7 +31,7 @@ The Marine Biodiversity Observation Network (MBON) is a growing global initiativ
 </div>
 
 <div style="width:45%; float:right; text-align:center;">
-<img src="mbon_goos_framework.png">
+<img src="../../assets/media/mbon_goos_framework.png">
 
 </div>
 
