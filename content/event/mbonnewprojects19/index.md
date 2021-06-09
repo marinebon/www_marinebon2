@@ -1,8 +1,6 @@
 ---
-abstract: " "
 summary: " "
-date: 2019-10-11T04:00:00.000Z
-date_end: 2019-10-11T18:05:45.810Z
+date: 2019-10-11
 event_url: " "
 authors: []
 url_video: ""
@@ -11,8 +9,7 @@ url_slides: ""
 title: MBON New Projects Kickoff
 location: Silver Spring, Maryland
 all_day: true
-event: " "
-publishDate: 2021-10-11T23:43:43.521Z
+publishDate: 2021-06-04T23:43:43.521Z
 image:
   filename: featured.png
   preview_only: true
