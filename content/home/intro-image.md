@@ -11,4 +11,3 @@ design:
     image_darken: 0
     image: ""
 ---
-![MBON-GOOS Framework Diagram](/static/img/post2/mbon_goos_framework.png)
