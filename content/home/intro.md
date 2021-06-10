@@ -1,27 +1,14 @@
 ---
-# An instance of the Blank widget.
-# Documentation: https://wowchemy.com/docs/page-builder/
 widget: blank
-
-# This file represents a page section.
+widget_id: intro
 headless: true
-
-# Order that this section appears on the page.
 weight: 1
-
-# Section title
 title: Marine Biodiversity Observation Network
-
-# Section subtitle
-subtitle:
-
-# Section design
+subtitle: null
 design:
-  # Use a 1-column layout
   columns: "1"
-  # Use a dark navy background with light text.
   background:
-    color: 'navy'
+    color: navy
     text_color_light: true
 ---
 
@@ -31,7 +18,7 @@ The Marine Biodiversity Observation Network (MBON) is a growing global initiativ
 </div>
 
 <div style="width:45%; float:right;">
-<img src="/assets/media/mbon_goos_framework.png">
+
 <img src="mbon_goos_framework.png">
 
 </div>
