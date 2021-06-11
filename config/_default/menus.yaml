@@ -5,71 +5,71 @@
 
 main:
   # about ----
-  - name:   '<i class="far fa-question-circle"></i> About Us'
+  - name:   '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    '#about'
     weight: 10
   - name:   'Description'
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/description'
     weight: 10
   - name:   'Mission and Vision'
     weight: 20
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/mission_vision'
   - name:   'Principles and Goals'
     weight: 30
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/principles_goals'
   - name:   'Ethics and Values'
     weight: 40
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/ethics_and_values'
   - name:   'Timeline'
     weight: 50
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/timeline'
   - name:   'People'
     weight: 60
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/people'
   - name:   'Strategy and Implementation'
     weight: 70
-    parent: '<i class="far fa-question-circle"></i> About Us'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/strategy_and_implementation'
   # network ----
-  - name:   '<i class="fas fa-project-diagram"></i> The Network'
+  - name:   '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
     weight: 20
     url:    'network'
   - name:   'Network Structure'
     weight: 10
-    parent: '<i class="fas fa-project-diagram"></i> The Network'
+    parent: '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
     url:    'network'
   # products ----
   - name:   '<i class="fas fa-tools"></i> Products'
     url:    '#products'
     weight: 30
   # projects ----
-  - name:   '<i class="fas fa-map-marker-alt"></i> Projects'
+  - name:   '<i class="fas fa-map-marker-alt"></i> &nbsp; Projects'
     url:    '#projects'
     weight: 40
   # news_events ----
-  - name:   '<i class="far fa-newspaper"></i> News and Events'
+  - name:   '<i class="far fa-newspaper"></i> &nbsp; News and Events'
     weight: 50
     url:    '#news_events'
   - name:   'News'
     weight: 10
-    parent: '<i class="far fa-newspaper"></i> News and Events'
+    parent: '<i class="far fa-newspaper"></i> &nbsp; News and Events'
     url:    '/post/'
   - name:   'Events'
     weight: 20
-    parent: '<i class="far fa-newspaper"></i> News and Events'
+    parent: '<i class="far fa-newspaper"></i> &nbsp; News and Events'
     url:    'news_events/events'
   # news_events ----
-  - name:   '<i class="fas fa-book"></i> Publications'
+  - name:   '<i class="fas fa-book"></i> &nbsp; Publications'
     url:    '/publication/'
     weight: 60
   # contacts ----
-  - name:   '<i class="far fa-address-card"></i> Contacts'
+  - name:   '<i class="far fa-address-card"></i> &nbsp; Contacts'
     url:    '/contacts'
     weight: 70
 
