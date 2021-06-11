@@ -11,4 +11,4 @@ design:
     image_darken: 0
     image: ""
 ---
-![mbon goos framework](/media_content/home/mbon-components-mbon_components.png)
+![mbon goos framework](/media_content/home/mbon-components-mbon_components.jpeg)
