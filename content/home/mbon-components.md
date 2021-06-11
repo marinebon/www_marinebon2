@@ -12,4 +12,4 @@ design:
     image: ""
     color: "#ffffff"
 ---
-<span style="float:center;">![mbon goos framework](/media_content/home/mbon-components-mbon_components.jpeg)</span>
+<span style="float:center;">![mbon components](/media_content/home/mbon-components-mbon_components.jpeg)</span>
