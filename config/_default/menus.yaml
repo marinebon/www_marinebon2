@@ -5,7 +5,7 @@
 
 main:
   # about ----
-  - name:   'About Us'
+  - name:   '<i class="far fa-question-circle"></i> About Us'
     url:    '#about'
     weight: 10
   - name:   'Description'
