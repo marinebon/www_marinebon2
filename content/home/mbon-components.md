@@ -12,5 +12,5 @@ design:
     image: ""
     color: "#ffffff"
 ---
-<div style="float:center;">
+<div style="width:100%; float:center; text-align:center;">
 <img src="/media_content/home/mbon-components-mbon_components.jpeg"></div>
