@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: intro-image
+widget_id: mbon-components
 headless: true
 weight: 3
 active: true
@@ -11,4 +11,4 @@ design:
     image_darken: 0
     image: ""
 ---
-![mbon goos framework](/media_content/home/intro-image_mbon_goos_framework.png)
+![mbon goos framework](/media_content/home/mbon-components-mbon_components.png)
