@@ -12,4 +12,4 @@ design:
     image: ""
     color: "#ffffff"
 ---
-<div style="float:center;">![mbon components](/media_content/home/mbon-components-mbon_components.jpeg)</div>
+![mbon components](/media_content/home/mbon-components-mbon_components.jpeg)
