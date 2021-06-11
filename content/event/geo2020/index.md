@@ -1,12 +1,12 @@
 ---
 summary: " "
-date: 2020-05-06
+date: 2020-06-19
 event_url: " "
 authors: []
 url_video: ""
 featured: false
 url_slides: ""
-title: IOC-UNESCO Marine Spatial Planning (MSP) Forum
+title: GEO Virtual Symposium 2020
 location: Virtual
 all_day: true
 publishDate: 2021-06-04T23:43:43.521Z
