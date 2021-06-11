@@ -12,4 +12,4 @@ design:
     image: ""
     color: "#ffffff"
 ---
-![mbon components](/media_content/home/mbon-components_mbon_components.jpeg)
+![mbon components](/media_content/home/mbon-components-mbon_components.jpeg)
