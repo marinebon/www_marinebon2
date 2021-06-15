@@ -53,17 +53,9 @@ main:
     url:    '#projects'
     weight: 40
   # news_events ----
-  - name:   '<i class="far fa-newspaper"></i> &nbsp; News and Events'
+  - name:   '<i class="far fa-newspaper"></i> &nbsp; News'
+    url:    '#post'
     weight: 50
-    url:    '#news_events'
-  - name:   'News'
-    weight: 10
-    parent: '<i class="far fa-newspaper"></i> &nbsp; News and Events'
-    url:    '/post/'
-  - name:   'Events'
-    weight: 20
-    parent: '<i class="far fa-newspaper"></i> &nbsp; News and Events'
-    url:    'news_events/events'
   # news_events ----
   - name:   '<i class="fas fa-book"></i> &nbsp; Publications'
     url:    '/publication/'
