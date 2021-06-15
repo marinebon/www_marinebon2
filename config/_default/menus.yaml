@@ -54,7 +54,7 @@ main:
     weight: 40
   # news_events ----
   - name:   '<i class="far fa-newspaper"></i> &nbsp; News'
-    url:    '#post'
+    url:    '/post/'
     weight: 50
   # news_events ----
   - name:   '<i class="fas fa-book"></i> &nbsp; Publications'
