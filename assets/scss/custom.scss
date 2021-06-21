@@ -1,7 +1,12 @@
+// === make the nav menu header bigger
 nav#navbar-main {
   height: 10em;
 }
 
-.container-xl {
+#navbar-main .container-xl {
   height: 100%; 
+}
+
+d-none.d-lg-inline-flex {
+  height: 100%;
 }
