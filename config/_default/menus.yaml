@@ -36,7 +36,7 @@ main:
     weight: 70
     parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
     url:    'about/strategy_and_implementation'
-  # network ----
+  # network and projects ----
   - name:   '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
     weight: 20
     url:    'network'
@@ -44,26 +44,26 @@ main:
     weight: 10
     parent: '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
     url:    'network'
-  # products ----
+  - name:   'Projects'
+    weight: 20
+    parent: '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
+    url:    '#projects'
+  # data and products ----
   - name:   '<i class="fas fa-tools"></i> &nbsp; Data and Products'
     url:    '/data/'
     weight: 30
-  # projects ----
-  - name:   '<i class="fas fa-map-marker-alt"></i> &nbsp; Projects'
-    url:    '#projects'
-    weight: 40
   # news_events ----
   - name:   '<i class="far fa-newspaper"></i> &nbsp; News'
     url:    '/post/'
-    weight: 50
+    weight: 40
   # news_events ----
   - name:   '<i class="fas fa-book"></i> &nbsp; Publications'
     url:    '/publication/'
-    weight: 60
+    weight: 50
   # contacts ----
   - name:   '<i class="far fa-address-card"></i> &nbsp; Contacts'
     url:    '/contacts'
-    weight: 70
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
