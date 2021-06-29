@@ -28,7 +28,9 @@ content:
 design:
   columns: '2'
 ---
-Gabrielle Canonico, U.S. MBON Program Manager
-Frank Muller-Karger, U.S. MBON Team Leader, GEO BON/MBON Co-chair
-Enrique Montes, MBON Pole to Pole in the Americas
+**MBON Contacts**
+
+Gabrielle Canonico, U.S. MBON Program Manager<br>
+Frank Muller-Karger, U.S. MBON Team Leader, GEO BON/MBON Co-chair<br>
+Enrique Montes, MBON Pole to Pole in the Americas<br>
 Massa Nakaoka, Asia Pacific MBON
