@@ -1,12 +1,8 @@
-// === make the nav menu header bigger
-nav#navbar-main {
+// === make the main top nav menu & brand img bigger
+.navbar {
   height: 10em;
 }
 
-#navbar-main .container-xl {
-  height: 100%; 
-}
-
-d-none.d-lg-inline-flex {
-  height: 100%;
+.navbar-brand img {
+  max-height: calc(100%-10px); // 100% height + 10px v-padding
 }
