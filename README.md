@@ -35,7 +35,7 @@ based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs
 2. git clone & cd into repo on your local
 3. cd into the `/content/` directory? (not sure yet)
 4. `academic import --normalize --bibtex content/publication/MBON_publications.bib` to run the python import script
-5. `git commit -a -m 'update pubs'
+5. `git commit -a -m 'update pubs'`
 6. `git push`
 
 ## Local Dev Workflow
