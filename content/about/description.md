@@ -13,5 +13,5 @@ published: true
 The Marine Biodiversity Observation Network (MBON) is a thematic node of the Group on Earth Observations Biodiversity Observation Network (GEO BON). MBON is a global collaborative initiative that contributes to effective management of marine biodiversity and ecosystem services. 
 
 
-![mbon goos framework](/media_content/about/description-mbon_components.jpeg)
+![mbon goos framework](/media_content/about/description_mboninfographic_cropped.png)
 
