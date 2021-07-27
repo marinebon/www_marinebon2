@@ -4,6 +4,7 @@ summary: The Infographiq method uses a combination of Javascript and R to produc
 tags:
 - infographic
 - tool product
+- global
 draft: false
 ---
 

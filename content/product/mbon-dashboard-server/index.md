@@ -4,6 +4,7 @@ summary: Docker software stack for MBON server serving early-alert dashboards.
 tags:
 - early alert dashboard
 - tool product
+- global
 draft: false
 ---
 
