@@ -1,15 +1,13 @@
 ---
-title: Florida Keys ESR Infographic
-summary: Conceptual diagram as interactive infographic for the Florida Keys Sanctuary associated with Ecosystem Status Report (ESR).
+title: Alaska IEA Infographics
+summary: Through an integrated science approach, the NOAA Integrated Ecosystem Assessment program balances the needs of nature and society for current and future generations, supporting diverse marine resource management objectives in an ecosystem context.
 tags:
 - US
-- South Florida
 - infographic
 - IEA
 - instance product
 draft: false
 ---
-
 
 * [website link](https://marinebon.org/fk-esr-info/infographic.html)
 * [code](https://github.com/marinebon/fk-esr-info)

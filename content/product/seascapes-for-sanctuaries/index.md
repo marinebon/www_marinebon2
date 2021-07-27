@@ -4,6 +4,7 @@ summary: Shiny application to visualize global Seascape Classes in time and spac
 tags:
 - US
 - Sanctuaries
+- data product
 draft: false
 ---
 
