@@ -50,7 +50,7 @@ main:
     url:    '#projects'
   # data and products ----
   - name:   '<i class="fas fa-tools"></i> &nbsp; Data and Products'
-    url:    '/data/'
+    url:    '#products'
     weight: 30
   # news_events ----
   - name:   '<i class="far fa-newspaper"></i> &nbsp; News'
