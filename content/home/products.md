@@ -35,6 +35,7 @@ content:
   - name: South FL
     tag: South Florida
 
+  filter_button:
     # associated tool(s)
   - name: infographic
     tag: infographic
