@@ -48,7 +48,7 @@ content:
   - name: NMS
     tag: org--nms
   - name: FWRI
-    tag: org-fwri
+    tag: org--fwri
 
     # product type
   - name: Tool Product

@@ -2,7 +2,7 @@
 title: MBON Data Portal
 summary: Search, download, visualize, and analyze MBON data with the MBON Data Portal.
 tags:
-- region--US
+- region--us
 - product_type--tool
 draft: false
 ---
