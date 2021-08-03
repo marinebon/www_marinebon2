@@ -2,9 +2,10 @@
 title: FWRI SCTLD Dashboard
 summary: Early warning and alert dashboard of satellite and buoy data to monitor the spread of stony coral tissue loss disease in the Florida Keys.
 tags:
-- US
-- early alert dashboard
-- instance product
+- region--US
+- tool--dashboard
+- product_type--instance
+- org--fwri
 draft: false
 ---
 

@@ -2,9 +2,9 @@
 title: Infographiq
 summary: The Infographiq method uses a combination of Javascript and R to produce clickable art that acts as an interface for users to access scientific data.
 tags:
-- infographic
-- tool product
-- Global
+- tool--infographic
+- product_type--tool
+- region--global
 draft: false
 ---
 

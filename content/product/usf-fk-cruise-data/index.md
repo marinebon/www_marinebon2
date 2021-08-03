@@ -2,9 +2,10 @@
 title: USF Data Collection in the FK NMS
 summary: Phytoplankton bio-optical and pigment samples continue to be collected, processed, and analyzed at USF for the FK NMS and surrounding region.
 tags:
-- US
-- South Florida
-- data product
+- region--us
+- region--south-florida
+- product_type--data
+- org--nms
 draft: false
 ---
 

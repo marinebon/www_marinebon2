@@ -2,9 +2,9 @@
 title: Seascapes for Sanctuaries
 summary: Shiny application to visualize global Seascape Classes in time and space for the National Marine Sanctuaries.
 tags:
-- US
-- Sanctuaries
-- data product
+- region--us
+- org--nms
+- product_type--tool
 draft: false
 ---
 

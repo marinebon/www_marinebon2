@@ -2,10 +2,10 @@
 title: Olympic Coast NMS Infographics
 summary: Interactive ecosystem infographics for the Olympic Coast National Marine Sanctuary.
 tags:
-- US
-- infographic
-- NMS
-- instance product
+- region--us
+- tool--infographic
+- org--nms
+- product_type--instance
 draft: false
 ---
 

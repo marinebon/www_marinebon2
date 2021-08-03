@@ -2,9 +2,10 @@
 title: FWRI FK Water Quality Dashboard
 summary: ArcGIS story map for water quality for the Florida Keys developed by FWRI.
 tags:
-- US
-- South Florida
-- instance product
+- region--us
+- region--south-florida
+- product_type--instance
+- org--fwri
 draft: false
 ---
 

@@ -30,29 +30,33 @@ content:
 
     # region(s)
   - name: US
-    tag: region--US
+    tag: region--us
   - name: Global
-    tag: Global
+    tag: region--global
   - name: South FL
-    tag: South Florida
+    tag: region--south-florida
 
     # associated tool(s)
   - name: Infographics
-    tag: infographic
+    tag: tool--infographic
   - name: Early Alert Dashboards
-    tag: early alert dashboard
+    tag: tool--dashboard
 
     # associated orgs
-  - name: NOAA-IEA
-    tag: IEA
+  - name: IEA
+    tag: org--iea
+  - name: NMS
+    tag: org--nms
+  - name: FWRI
+    tag: org-fwri
 
     # product type
   - name: Tool Product
-    tag: tool product
+    tag: product_type--tool
   - name: Instance Product
-    tag: instance product
+    tag: product_type--instance
   - name: Data Product
-    tag: data product
+    tag: product_type--data
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

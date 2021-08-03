@@ -2,8 +2,8 @@
 title: CoastWatch OBIS Indicator Explorer
 summary: Extracting collocated satellite remote sensing products, gridded numerical model results, and field observations to create biodiversity indicators.
 tags:
-- tool product
-- Global
+- product_type--tool
+- region--global
 draft: false
 ---
 

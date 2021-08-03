@@ -2,9 +2,10 @@
 title: FGB NMS "Sentinel Sites" Dashboard
 summary: Early warning and alert dashboard of satellite and buoy data for detecting river plumes endangering biodiversity in the Flower Garden Banks NMS.
 tags:
-- US
-- early alert dashboard
-- instance product
+- region--US
+- tool--dashboard
+- product_type--instance
+- org--nms
 draft: false
 ---
 

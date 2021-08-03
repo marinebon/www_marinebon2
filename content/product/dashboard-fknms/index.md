@@ -1,11 +1,12 @@
 ---
-title: Florida Keys Alert Dashboard
+title: Florida Keys NMS Alert Dashboard
 summary: Early warning and alert dashboard of satellite and buoy data for detecting harmful algal blooms and anoxic conditions in the Florida Keys.
 tags:
-- US
-- South Florida
-- early alert dashboard
-- instance product
+- region--us
+- region--south-florida
+- tool--dashboard
+- product_type--instance
+- org--nms
 draft: false
 
 image:

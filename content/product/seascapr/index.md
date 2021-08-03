@@ -2,8 +2,8 @@
 title: SeascapR
 summary: A prototype interface to explore Seascapes in different marine regions, including US National Marine Sanctuaries.
 tags:
-- tool product
-- Global
+- product_type--tool
+- region--global
 draft: false
 ---
 
