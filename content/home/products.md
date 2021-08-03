@@ -30,7 +30,7 @@ content:
 
     # region(s)
   - name: US
-    tag: region:US
+    tag: region=US
   - name: Global
     tag: Global
   - name: South FL
