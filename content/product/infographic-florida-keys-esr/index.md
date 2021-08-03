@@ -10,9 +10,9 @@ tags:
 draft: false
 ---
 
+This interactive conceptual model infographic illustrates the status and trends of selected indicators within the context of the Florida Keys National Marine Sanctuary's ecosystem, showing conditions of the sanctuary's resources via different sections. To explore this suite of indicators, hover over each indicator icon, or click on the indicator from the menu on the right. This is a product of the Florida Keys NOAA Integrated Ecosystem Assessment program.
 
-* [website link](https://marinebon.org/fk-esr-info/infographic.html)
-* [code](https://github.com/marinebon/fk-esr-info)
+* [website link](https://noaa-iea.github.io/fk-esr-info/infographic.html)
 
 Please see the following for more on developing interactive infographics:
 * [infographiq R package](https://github.com/marinebon/infographiq)

@@ -9,8 +9,7 @@ tags:
 draft: false
 ---
 
-* [website link](https://marinebon.org/fk-esr-info/infographic.html)
-* [code](https://github.com/marinebon/fk-esr-info)
+* [website link](https://noaa-iea.github.io/ak-info/)
 
 Please see the following for more on developing interactive infographics:
 * [infographiq R package](https://github.com/marinebon/infographiq)
