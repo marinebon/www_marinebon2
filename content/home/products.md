@@ -25,20 +25,21 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
-  # region(s)
   - name: All
     tag: '*'
-  - name: U.S.
-    tag: US
+
+    # region(s)
+  - name: US
+    tag: region:US
   - name: Global
     tag: Global
   - name: South FL
     tag: South Florida
 
     # associated tool(s)
-  - name: infographic
+  - name: Infographics
     tag: infographic
-  - name: Early Alert Dashboard
+  - name: Early Alert Dashboards
     tag: early alert dashboard
 
     # associated orgs
@@ -46,11 +47,11 @@ content:
     tag: IEA
 
     # product type
-  - name: tool product
+  - name: Tool Product
     tag: tool product
-  - name: instance product
+  - name: Instance Product
     tag: instance product
-  - name: data product
+  - name: Data Product
     tag: data product
 
 design:
