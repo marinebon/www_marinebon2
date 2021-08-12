@@ -7,6 +7,8 @@ tags:
 draft: false
 ---
 
+Search and download real-time, delayed-mode, and historical data for in situ and remotely-sensed physical, chemical, and biological observations.
+
 The MBON Data Portal is developed and managed by Axiom data science to provide easy access to MBON data.
 The portal includes a data catalog and a featureful data mapping portal.
 
