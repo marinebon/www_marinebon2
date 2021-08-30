@@ -5,36 +5,20 @@
 
 main:
   # about ----
-  - name:   '<i class="far fa-question-circle"></i> &nbsp; About Us'
-    url:    '#about'
+  - name:   '<i class="far fa-question-circle"></i> &nbsp; About MBON'
+    url:    'about_mbon'
     weight: 10
-  - name:   'Description'
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
-    url:    'about/description'
-    weight: 10
-  - name:   'Mission and Vision'
-    weight: 20
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
-    url:    'about/mission_vision'
-  - name:   'Principles and Goals'
-    weight: 30
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
-    url:    'about/principles_goals'
-  - name:   'Ethics and Values'
-    weight: 40
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
-    url:    'about/ethics_and_values'
   - name:   'Timeline'
-    weight: 50
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
+    weight: 20
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About MBON'
     url:    'about/timeline'
   - name:   'People'
-    weight: 60
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
+    weight: 30
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About MBON'
     url:    'about/people'
   - name:   'Strategy and Implementation'
-    weight: 70
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About Us'
+    weight: 40
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About MBON'
     url:    'about/strategy_and_implementation'
   # network and projects ----
   - name:   '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
