@@ -6,7 +6,7 @@
 main:
   # about ----
   - name:   '<i class="far fa-question-circle"></i> &nbsp; About MBON'
-    url:    '/about
+    url:    '/about/'
     weight: 10
   - name:   'Timeline'
     weight: 20
