@@ -1,15 +1,3 @@
 ---
-title: MBON-Supported Data & Products
-cms_exclude: true
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
-
-# Optional header image (relative to `static/media/` folder).
-header:
-  caption: ""
-  image: ""
+type: widget_page
 ---
