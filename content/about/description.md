@@ -17,9 +17,11 @@ The Marine Biodiversity Observation Network (MBON) is a thematic node of the Gro
 
 
 **Mission**
+
 Foster and coordinate a global community of practice for the collection, curation, analysis, good management, and communication of marine biodiversity data and related services to the scientific community, policy makers, the public and other stakeholders.
 
 **Vision**
+
 MBON envisions that observations of marine biodiversity, from local to global scales, become an integral part of observing systems to strengthen the understanding of marine biodiversity and monitoring of associated changes over time, to inform society for sustainable development and conservation priorities.
 
 
