@@ -5,20 +5,24 @@
 
 main:
   # about ----
-  - name:   '<i class="far fa-question-circle"></i> &nbsp; About MBON'
-    url:    '/about/'
+  - name:   '<i class="far fa-question-circle"></i> &nbsp; About'
+    url:    '#'
+    weight: 10
+  - name:   'About MBON'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About'
+    url:    'about/description'
     weight: 10
   - name:   'Timeline'
     weight: 20
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About MBON'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About'
     url:    '/about/timeline'
   - name:   'People'
     weight: 30
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About MBON'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About'
     url:    '/about/people'
   - name:   'Strategy and Implementation'
     weight: 40
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About MBON'
+    parent: '<i class="far fa-question-circle"></i> &nbsp; About'
     url:    '/about/strategy_and_implementation'
   # network and projects ----
   - name:   '<i class="fas fa-project-diagram"></i> &nbsp; The Network'
