@@ -6,6 +6,8 @@ light = true
 
 # Primary
 primary = "#013088"  # from ioos.noaa.gov nav background
+primary_light = "#757de8"
+primary_dark = "#002984"
 
 # Menu
 menu_primary = "#013088"
