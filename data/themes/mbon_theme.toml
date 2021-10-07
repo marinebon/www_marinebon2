@@ -1,0 +1,18 @@
+# Theme metadata
+name = "mbon"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#013088"  # from ioos.noaa.gov nav background
+
+# Menu
+menu_primary = "#013088"
+menu_text = "#fff"
+menu_text_active = "#0192B1" # from ioos.noaa.gov nav text
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "rgb(255, 255, 255)"
+home_section_even = "rgb(247, 247, 247)"
