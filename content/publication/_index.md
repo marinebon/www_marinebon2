@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: MBON Publications
 cms_exclude: true
 
 # View.
