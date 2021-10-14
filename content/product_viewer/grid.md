@@ -12,6 +12,9 @@ weight: 10
 title: Data & Software
 subtitle: 'MBON Product Viewer'
 
+design:
+  columns: 1
+
 content:
   # Page type to display. E.g. project.
   page_type: product
