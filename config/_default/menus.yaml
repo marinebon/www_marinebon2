@@ -38,7 +38,7 @@ main:
     url:    '/project/'
   # data and products ----
   - name:   '<i class="fas fa-tools"></i> &nbsp; Data and Products'
-    url:    '/product/'
+    url:    '/product_viewer/'
     weight: 30
   # news_events ----
   - name:   '<i class="far fa-newspaper"></i> &nbsp; News'
