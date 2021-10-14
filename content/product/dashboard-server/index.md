@@ -5,6 +5,7 @@ tags:
 - tool--dashboard
 - product_type--tool
 - region--global
+- homepage-highlight
 draft: false
 ---
 
