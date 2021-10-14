@@ -2,12 +2,18 @@
 
 title: "Data & Software"
 cms_exclude: true
-view: 3
 summary: "List of MBON Data and Software Products"
+widget: pages
+
+design:
+  view: 3
 
 content:
   # Page type to display. E.g. project.
   page_type: product
+  count: 0  # 0 - all pages
+  offset: 0  # start at beginning
+  order: desc
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
   filter_default: 0
