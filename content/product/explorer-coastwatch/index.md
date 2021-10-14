@@ -4,6 +4,7 @@ summary: Extracting collocated satellite remote sensing products, gridded numeri
 tags:
 - product_type--tool
 - region--global
+- homepage-highlight
 draft: false
 ---
 
