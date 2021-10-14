@@ -7,10 +7,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
+weight: 10
 
-title: Data & Tool Products
-subtitle: ''
+title: Data & Software
+subtitle: 'MBON Product Viewer'
 
 content:
   # Page type to display. E.g. project.
@@ -60,7 +60,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+  columns: '1'
 
   # Toggle between the various page layout types.
   #   1 = List
