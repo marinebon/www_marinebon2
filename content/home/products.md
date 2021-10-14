@@ -17,49 +17,16 @@ content:
   page_type: product
 
   # Default filter index (e.g. 0 corresponds to the first `filter_button` instance below).
-  filter_default: 1
+  filter_default: 0
 
   # Filter toolbar (optional).
   # Add or remove as many filters (`filter_button` instances) as you like.
   # To show all items, set `tag` to "*".
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
-  filter_button:
-  - name: All
-    tag: '*'
-    
-  - name: Highlighted
+  
+  - name: Highlighted MBON Products
   - tag: homepage-highlight
-
-    # region(s)
-  - name: US
-    tag: region--us
-  - name: Global
-    tag: region--global
-  - name: South FL
-    tag: region--south-florida
-
-    # associated tool(s)
-  - name: Infographics
-    tag: tool--infographic
-  - name: Early Alert Dashboards
-    tag: tool--dashboard
-
-    # associated orgs
-  - name: IEA
-    tag: org--iea
-  - name: NMS
-    tag: org--nms
-  - name: FWRI
-    tag: org--fwri
-
-    # product type
-  - name: Tool Product
-    tag: product_type--tool
-  - name: Instance Product
-    tag: product_type--instance
-  - name: Data Product
-    tag: product_type--data
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -75,3 +42,5 @@ design:
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
 ---
+
+See more MBON data and software products on [the product viewer page](/product_viewer/). 
