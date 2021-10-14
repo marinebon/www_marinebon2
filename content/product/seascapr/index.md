@@ -4,6 +4,7 @@ summary: A prototype interface to explore Seascapes in different marine regions,
 tags:
 - product_type--tool
 - region--global
+- homepage-highlight
 draft: false
 ---
 
