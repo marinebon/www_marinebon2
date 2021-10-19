@@ -43,6 +43,32 @@ Wowchemy is designed to leverage lots of free cloud tools to allow CMS & WYSiWYG
 The [wowchemy "edit on your pc" page](https://wowchemy.com/docs/getting-started/install-hugo-extended/) outlines how to get set up building the site on your local machine rather than relying on netlify (or github actions or travis CI or whatever).
 This is useful for editing without needing to do a commit - something that is especially valuable when making lots of small test changes (looking at you, CSS) or debugging build issues.
 
+## Adding / editing a "product" listing
+It is relatively easy to add a "MBON Data or Software Product" to the grid display. You may open an issue for help with this but the general steps are:
+
+1. create a folder for the product in [/content/product/](https://github.com/marinebon/www_marinebon2/tree/master/content/product). The next steps take place in this folder.
+2. (optional) add an image named `featured.png` to use on the product "card grid" display
+3. create a file `index.md` using markdown syntax. This must include a basic header section. See other product `index.md`s for examples.
+4. (optional) use the "tags" list in the `.md` header section to set relevant tags. Tags can be anything but the most important ones are listed under "filter_button" in the widget file ([/content/product/index_widget_product_grid.md](https://raw.githubusercontent.com/marinebon/www_marinebon2/master/content/product/index_widget_product_grid.md)). Below is a list of those tags (as of 2021-10):
+
+tag description           | tag format              | examples
+------------------------- | ----------------------- | ------------------------------------------------------------------------
+MBON Region               | `region--{REGION_NAME}` | `region--south-florida`, `region--global`, `region--us`
+associated MBON tool(s)   | `tool--{TOOL_NAME}`     | `tool--infographiq`, `tool--dashboard`
+associated organizations  | `org-{ORG_NAME}`        | `org-iea`, `org-nms`, `org-fwri`
+product type              | `product_type--{TYPE}`  | `product_type--tool`, `product_type--instance`, `product_type--data`
+
+* regarding `product_type`: An explaination of the three types:
+  * a `data` product represents publication of scientific data to be used by others
+  * an `instance` software product is something created to address the needs of a specific group and is uniquely tied to that user-story.
+  * a `tool` software product is something that can be used help to create `instance` products. This includes frameworks, libraries, etc
+
+Publications have their own section of the website and should not be put under products. The products page exists to help users find resources they can use, so a product must link out to one of:
+
+* a publicly usable user interface or downloadable software binaries
+* a place to download a public dataset
+* source code
+
 # Useful tools
 * [**Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli**): Automatically import publications from BibTeX
 * [**prose.io markdown (+ more) editor**](prose.io): in-browser file editing alternative to github editor
