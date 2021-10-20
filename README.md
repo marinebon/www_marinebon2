@@ -25,9 +25,11 @@ Note that the "home" page is different and weird because it is currently using w
 
 Above is the most basic workflow for editing the content on this website but advanced users can also develop using the typical git workflow and hugo to do test builds without needing to commit and rely on Netlify builds.
 
-## Editing the Nav Menu
-Modify the `./config/_default/menus.toml` entries to define menu items.
-To define sub-menu items use the `parent` attribute as explained [in this issue](github.com/wowchemy/wowchemy-hugo-modules#72).
+## Adding a "news" post
+1. create a file named `index.md` inside a folder within [/content/post](https://github.com/marinebon/www_marinebon2/tree/master/content/post) for your news post.
+2. copy and modify the "header section" from another article's `index.md`. The "header" is everything at the top of the file between the pair of three dashes (`---`)
+3. use markdown syntax inside the `index.md` file to write your article
+4. commit the file to github. The site will rebuild to include your article within minutes (as described in the general editing workflow above)
 
 ## Editing publications
 based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs/content/publications/#import-from-bibtex)
@@ -37,11 +39,6 @@ based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs
 4. `academic import --normalize --bibtex content/publication/MBON_publications.bib` to run the python import script
 5. `git commit -a -m 'update pubs'`
 6. `git push`
-
-## Local Dev Workflow
-Wowchemy is designed to leverage lots of free cloud tools to allow CMS & WYSiWYG editing with minimal technical knowledge, but sometimes digging deeper into things is helpful.
-The [wowchemy "edit on your pc" page](https://wowchemy.com/docs/getting-started/install-hugo-extended/) outlines how to get set up building the site on your local machine rather than relying on netlify (or github actions or travis CI or whatever).
-This is useful for editing without needing to do a commit - something that is especially valuable when making lots of small test changes (looking at you, CSS) or debugging build issues.
 
 ## Adding / editing a "product" listing
 It is relatively easy to add a "MBON Data or Software Product" to the grid display. You may open an issue for help with this but the general steps are:
@@ -68,6 +65,15 @@ Publications have their own section of the website and should not be put under p
 * a publicly usable user interface or downloadable software binaries
 * a place to download a public dataset
 * source code
+
+## Editing the Nav Menu
+Modify the `./config/_default/menus.toml` entries to define menu items.
+To define sub-menu items use the `parent` attribute as explained [in this issue](github.com/wowchemy/wowchemy-hugo-modules#72).
+
+## Local Dev Workflow
+Wowchemy is designed to leverage lots of free cloud tools to allow CMS & WYSiWYG editing with minimal technical knowledge, but sometimes digging deeper into things is helpful.
+The [wowchemy "edit on your pc" page](https://wowchemy.com/docs/getting-started/install-hugo-extended/) outlines how to get set up building the site on your local machine rather than relying on netlify (or github actions or travis CI or whatever).
+This is useful for editing without needing to do a commit - something that is especially valuable when making lots of small test changes (looking at you, CSS) or debugging build issues.
 
 # Useful tools
 * [**Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli**): Automatically import publications from BibTeX
