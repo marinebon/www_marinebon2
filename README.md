@@ -30,6 +30,8 @@ Above is the most basic workflow for editing the content on this website but adv
 2. copy and modify the "header section" from another article's `index.md`. The "header" is everything at the top of the file between the pair of three dashes (`---`)
 3. use markdown syntax inside the `index.md` file to write your article
 4. commit the file to github. The site will rebuild to include your article within minutes (as described in the general editing workflow above)
+5. (optional) to add an image to the post upload it to the news post's folder and name it `featured.png`
+    * alternatively: you can name the image anything you like; just change the `image:filename:featured` part of the `index.md` header
 
 ## Editing publications
 based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs/content/publications/#import-from-bibtex)
