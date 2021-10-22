@@ -1,8 +1,8 @@
 ---
 title: OBIS and UNESCO announce new partnership to study biodiversity.
-subtitle: ""
-date: 2021-10-22T18:15:12.702Z
-summary: "OBIS partners with UNESCO's Marine World Heritage sites in a global project to study biodiversity."
+subtitle: OBIS helping to assess biodiversity at UNESCO Marine World Heritage sites
+date: 2021-10-21T18:15:12.702Z
+summary: OBIS partners with UNESCO's Marine World Heritage sites in a global project to study biodiversity.
 draft: false
 featured: false
 image:
@@ -11,7 +11,7 @@ image:
   preview_only: false
 ---
 
-OBIS partnered with UNESCO&#39;s Marine World Heritage sites in a global project to
+OBIS partnered with UNESCO's Marine World Heritage sites in a global project to
 study biodiversity. A two-year project using environmental DNA (eDNA) to study
 biodiversity across selected marine World Heritage sites by local citizens guided by
 expert support, to monitor fish as well as species red-listed by the International Union
