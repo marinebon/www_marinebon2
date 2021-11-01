@@ -152,13 +152,6 @@
         {{ end }}
       {{ end }}
 
-      <!-- GEO BON login button -->
-      <div class="d-none d-lg-inline-flex">
-        <a class="navbar-brand" href="https://members.geobon.org/pages/index">
-            <img src="/geobon_banner_logo.png" alt="log in to GEO BON" style="height:2em">
-        </a>
-      </div>
-
       {{ $show_search := site.Params.main_menu.show_search | default true }}
       {{ if and site.Params.search.provider $show_search }}
       <li class="nav-item">
