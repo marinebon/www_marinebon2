@@ -27,7 +27,7 @@ Above is the most basic workflow for editing the content on this website but adv
 
 ## Adding a "news" post
 1. create a file named `index.md` within [/content/post](https://github.com/marinebon/www_marinebon2/tree/master/content/post) for your news post.
-    * create a folder for the `index.md` by editing the name of `index.md`, adding your folder name followed by a `/`. Github should automatically create the folder.
+    * create a folder for the `index.md` by editing the name of `index.md`, adding your folder name followed by a `/`. Github should automatically create the folder. [Watch the .gif here for further clarification](https://github.community/t/add-a-folder/2304/2).
 3. copy and modify the "header section" from another article's `index.md`. The "header" is everything at the top of the file between the pair of three dashes (`---`)
 4. use markdown syntax inside the `index.md` file to write your article
 5. commit the file to github. The site will rebuild to include your article within minutes (as described in the general editing workflow above)
