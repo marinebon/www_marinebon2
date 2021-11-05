@@ -26,11 +26,12 @@ Note that the "home" page is different and weird because it is currently using w
 Above is the most basic workflow for editing the content on this website but advanced users can also develop using the typical git workflow and hugo to do test builds without needing to commit and rely on Netlify builds.
 
 ## Adding a "news" post
-1. create a file named `index.md` inside a folder within [/content/post](https://github.com/marinebon/www_marinebon2/tree/master/content/post) for your news post.
-2. copy and modify the "header section" from another article's `index.md`. The "header" is everything at the top of the file between the pair of three dashes (`---`)
-3. use markdown syntax inside the `index.md` file to write your article
-4. commit the file to github. The site will rebuild to include your article within minutes (as described in the general editing workflow above)
-5. (optional) to add an image to the post upload it to the news post's folder and name it `featured.png`
+1. create a file named `index.md` within [/content/post](https://github.com/marinebon/www_marinebon2/tree/master/content/post) for your news post.
+    * create a folder for the `index.md` by editing the name of `index.md`, adding your folder name followed by a `/`. Github should automatically create the folder.
+3. copy and modify the "header section" from another article's `index.md`. The "header" is everything at the top of the file between the pair of three dashes (`---`)
+4. use markdown syntax inside the `index.md` file to write your article
+5. commit the file to github. The site will rebuild to include your article within minutes (as described in the general editing workflow above)
+6. (optional) to add an image to the post upload it to the news post's folder and name it `featured.png`
     * alternatively: you can name the image anything you like; just change the `image:filename:featured` part of the `index.md` header
 
 ## Editing publications
