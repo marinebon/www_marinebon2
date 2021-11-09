@@ -78,6 +78,14 @@ Wowchemy is designed to leverage lots of free cloud tools to allow CMS & WYSiWYG
 The [wowchemy "edit on your pc" page](https://wowchemy.com/docs/getting-started/install-hugo-extended/) outlines how to get set up building the site on your local machine rather than relying on netlify (or github actions or travis CI or whatever).
 This is useful for editing without needing to do a commit - something that is especially valuable when making lots of small test changes (looking at you, CSS) or debugging build issues.
 
+## A note on media content
+We ran into issues setting up where to put media content (see [#10](https://github.com/marinebon/www_marinebon2/issues/10)).
+There are three options on where to put media:
+
+1. `/assets/media`
+2. `/content/...`
+3. `/static/media_content`
+
 # Useful tools
 * [**Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli**): Automatically import publications from BibTeX
 * [**prose.io markdown (+ more) editor**](prose.io): in-browser file editing alternative to github editor
