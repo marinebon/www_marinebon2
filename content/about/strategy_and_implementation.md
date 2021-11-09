@@ -14,16 +14,15 @@ header:
   image: ""
 ---
 
-<div style="width:45%; float:left; text-align:center;">
 
   The MBON Strategic and Implementation Plan reflects the ocean observing community engagement to deliver a common vision, stronger statement, and steady partnership to achieve a sustained system of global ocean observations and data management.
 
+<!-- <div style="width:45%; float:left; text-align:center;">
 </div>
-
 <div style="width:45%; float:right;">
-
+--> 
 <img src="mbon_goos_framework.png">
-
+<!--
 </div>
-
 <div style="clear: both;"></div>
+-->
