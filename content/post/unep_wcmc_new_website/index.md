@@ -1,5 +1,5 @@
 ---
-title: UNEP-WCMC launched a new website 
+title: UNEP-WCMC Launches a New Website 
 subtitle: NEA at UNEP-WCMC supports countries undertaking ecosystems assessments
 date: 2021-10-30 
 summary: New online platform makes available a multitude of resources to support the national ecosystems assessment processes
