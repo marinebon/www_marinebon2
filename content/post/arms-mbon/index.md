@@ -5,7 +5,7 @@ title: Joint US-Canada Zooplankton Workshop on Modeling Abundance and
 subtitle: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
   Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
   Jeffrey Runge, University of Maine, MBON*"
-date: 2021-06-01T18:12:23.150Z
+date: 2020-12-01T18:12:23.150Z
 summary: "*Convened by Chris Orphanides, NEFSC Protected Species Branch, NOAA
   Fisheries; Catherine Johnson, Bedford Institute of Oceanography, Canada DFO;
   Jeffrey Runge, University of Maine, MBON*"
