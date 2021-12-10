@@ -1,5 +1,5 @@
 ---
-title: OBIS and UNESCO announce new partnership to study biodiversity.
+title: OBIS Partners with UNESCO's Marine World Heritage Sites in Global Project to Study Biodiversity
 subtitle: OBIS helping to assess biodiversity at UNESCO Marine World Heritage sites
 date: 2021-10-21T18:15:12.702Z
 summary: OBIS Partners with UNESCO's Marine World Heritage Sites in Global Project to Study Biodiversity
