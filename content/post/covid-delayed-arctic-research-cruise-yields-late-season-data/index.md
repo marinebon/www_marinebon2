@@ -3,7 +3,7 @@ title: COVID-Delayed Arctic Research Cruise Yields Late-Season Data
 subtitle: Researchers studying the Bering and Chukchi seas for three weeks in
   October found no ice and a surprisingly active ecosystem as they added another
   year’s data to a key climate change record.
-date: 2021-04-28T19:48:04.609Z
+date: 2020-11-28T19:48:04.609Z
 summary: Researchers studying the Bering and Chukchi seas for three weeks in
   October found no ice and a surprisingly active ecosystem as they added another
   year’s data to a key climate change record.
