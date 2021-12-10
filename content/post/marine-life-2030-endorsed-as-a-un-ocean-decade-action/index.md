@@ -1,8 +1,8 @@
 ---
 title: "Marine Life 2030 Endorsed as a UN Ocean Decade Action"
-subtitle: "We are pleased to announce that Marine Life 2030 program was endorsed as a UN Ocean Decade Action.."
+subtitle: "We are pleased to announce that Marine Life 2030 program was endorsed as a UN Ocean Decade Action."
 date: 2021-9-09T19:50:13.092Z
-summary: "We are pleased to announce that Marine Life 2030 program was endorsed as a UN Ocean Decade Action.."
+summary: "We are pleased to announce that Marine Life 2030 program was endorsed as a UN Ocean Decade Action."
 draft: false
 featured: false
 image:
