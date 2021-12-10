@@ -1,7 +1,7 @@
 ---
 title: GEO Virtual Symposium 2020
 subtitle: ""
-date: 2021-05-01T18:25:48.241Z
+date: 2020-05-01T18:25:48.241Z
 summary: ""
 draft: false
 featured: false
