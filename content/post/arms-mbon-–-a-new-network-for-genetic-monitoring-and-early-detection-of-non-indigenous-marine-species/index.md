@@ -2,7 +2,7 @@
 title: ARMS-MBON
 subtitle: A New Network For Genetic Monitoring and Early Detection of
   Non-Indigenous Marine Species
-date: 2021-04-28T19:44:26.654Z
+date: 2021-12-28T19:44:26.654Z
 summary: As part of a global initiative originally developed by the Smithsonian
   Institute, a marine biodiversity observation network (MBON) has deployed more
   than 130 Autonomous Reef Monitoring Structures (ARMS) in the vicinity of
