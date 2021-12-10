@@ -1,7 +1,7 @@
 ---
 title: A New, Fast Way to Analyze Hurricane Damage to Coastal Environments
 subtitle: ""
-date: 2021-03-01T18:31:34.608Z
+date: 2020-03-01T18:31:34.608Z
 summary: ""
 draft: false
 featured: false
