@@ -9,7 +9,7 @@ url_slides: ""
 title: Cross-MBON Virtual Meeting: Toward a National Operational MBON
 location: Virtual
 all_day: true
-publishDate: 2021-06-04T23:43:43.521Z
+publishDate: 2021-07-19T23:43:43.521Z
 image:
   filename: featured.png
   preview_only: true
