@@ -35,13 +35,23 @@ Above is the most basic workflow for editing the content on this website but adv
     * alternatively: you can name the image anything you like; just change the `image:filename:featured` part of the `index.md` header
 
 ## Editing publications
+Updating publications requires a bit of technical know-how for now, but this can be automated easily in the future.
+The most important step below is the first one.
+Once you have completed step (1) then a site admin can quickly and easily complete the remaining steps.
+
 based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs/content/publications/#import-from-bibtex)
 1. modify `/content/publication/MBON_publications.bib`
-2. git clone & cd into repo on your local
-3. cd into the `/content/` directory? (not sure yet)
-4. `academic import --normalize --bibtex content/publication/MBON_publications.bib` to run the python import script
-5. `git commit -a -m 'update pubs'`
-6. `git push`
+    * if you are not familiar with bibtex then you can still edit this file easily using the github website.
+        1. find the publication on google scholar
+        2. click the "cite this" button
+        3. select "bibtex"
+        4. copy and paste the entry into the .bib file mentioned above
+        5. click commit to save your file edit
+3. git clone & cd into repo on your local
+4. cd into the `/content/` directory? (not sure yet)
+5. `academic import --normalize --bibtex content/publication/MBON_publications.bib` to run the python import script
+6. `git commit -a -m 'update pubs'`
+7. `git push`
 
 ## Adding / editing a "product" listing
 It is relatively easy to add a "MBON Data or Software Product" to the grid display. You may open an issue for help with this but the general steps are:
