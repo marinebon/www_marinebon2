@@ -21,5 +21,7 @@ content:
 design:
   view: 1
   background:
-    color: "#cccccc"
+    color: "#ffffff"
+    gradient_start: "#efefef"
+    gradient_end: "#cccccc"
 ---
