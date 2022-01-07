@@ -50,5 +50,5 @@ Cisco Werner</div>
 <p>&nbsp;</p>
 <div style="width:45%; float:left; text-align:center; font-size: smaller;"> <a href="ATN_BioTrack_mkm_10Feb21.pdf" target="_blank"><img src="woodward_atn.png"><br> Introduction to the Animal Telemetry Network</a><br> Bill Woodward</div>
 
-<div style="clear: both;"></div>
+<div style="clear: both;"></div> 
 
