@@ -1,15 +1,15 @@
 ---
 summary: " "
-date: 2020-06-19
+date: 2020-02-02
 event_url: " "
 authors: []
 url_video: ""
 featured: false
 url_slides: ""
-title: GEO Virtual Symposium 2021
+title: Cross-MBON Virtual Meeting - Toward a National Operational MBON
 location: Virtual
 all_day: true
-publishDate: 2021-06-05T23:43:43.521Z
+publishDate: 2021-02-05T23:43:43.521Z
 image:
   filename: featured.png
   preview_only: true
