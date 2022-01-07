@@ -20,4 +20,6 @@ content:
   order: desc
 design:
   view: 1
+  background:
+    color: "#cccccc"
 ---
