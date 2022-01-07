@@ -43,7 +43,7 @@ Erin Satterthwaite
 
 <div style="width:45%; float:right; text-align:center; font-size: smaller;">
 <a href="Werner_MBON_Feb2021.pdf" target="_blank"><img src="werner.png"><br>
-Building an Operational MBON: Vision and Opportunity</a><br>
+Building an Operational MBON: Vision and Opportunity</a><br> 
 Cisco Werner</div>
 
 <div style="clear: both;"></div>
