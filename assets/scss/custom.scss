@@ -2,12 +2,16 @@
 /*
 .navbar {
   height: 250px;
-  background: $sta-menu-primary;
-  box-shadow: 0 0.125rem 0.25rem 0 rgba(0, 0, 0, 0.11);
-  font-size: #{$sta-font-size-small}px;
+}
 
-  // Remove Bootstrap's navbar v-padding and assign v-padding to logo separately to maximise logo size.
-  // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
-  padding: 0 1rem;
+.navbar-brand img {
+  max-height: calc(100%-20px); // 100% height + 20px v-padding
+}
+*/
 
-  }
+// === resize top main nav menu text
+.dropdown-menu,
+nav#navbar-main li.nav-item {
+  font-size: 16px;
+  font-weight: bold;
+}
