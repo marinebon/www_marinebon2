@@ -10,21 +10,4 @@
   // Otherwise, Bootstrap's navbar v-padding causes issue with logo fitting within fixed 50px height bar in md-lg sizes.
   padding: 0 1rem;
 
-  .nav-item {
-    // For z-index compatibility with logo on mobile layout, otherwise nav-item can't be clicked when logo present.
-    position: relative;
-  }
-  @include media-breakpoint-down(md) {
-    height: 50px;
-
-    .navbar-nav-scroll {
-      width: 100%;
-      overflow: hidden;
-
-      .navbar-nav {
-        overflow-x: auto;
-        white-space: nowrap;
-        -webkit-overflow-scrolling: touch;
-      }
-    }
   }
