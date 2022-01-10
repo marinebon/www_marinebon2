@@ -24,4 +24,5 @@ design:
     color: "#ffffff"
     gradient_start: "#efefef"
     gradient_end: "#cccccc"
+  columns: "1"
 ---
