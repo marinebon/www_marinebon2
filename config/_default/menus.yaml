@@ -12,16 +12,8 @@ main:
     parent: '<i class="far fa-question-circle"></i> &nbsp; About'
     url:    'about/description'
     weight: 10
-  - name:   'Timeline'
-    weight: 20
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About'
-    url:    '/about/timeline'
-  - name:   'People'
-    weight: 30
-    parent: '<i class="far fa-question-circle"></i> &nbsp; About'
-    url:    '/about/people'
   - name:   'Strategy and Implementation'
-    weight: 40
+    weight: 20
     parent: '<i class="far fa-question-circle"></i> &nbsp; About'
     url:    '/about/strategy_and_implementation'
   # network and projects ----
