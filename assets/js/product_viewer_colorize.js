@@ -8,11 +8,11 @@
 // === The colors for each tag group:
 // colors generated using https://colors.muz.li/color-palette-generator/013088
 // with "primary" color from https://github.com/marinebon/www_marinebon2/blob/master/data/themes/mbon_theme.toml
-// as initial input.
+// as initial input. "Primary" color from there was #013088.
 const REGION_COLOR = '#01375f'
-const ORGANIZATION_COLOR = '#141488'
 const TOOL_COLOR = '#01884e'
-const TYPE_COLOR = '#015f37'
+const ORGANIZATION_COLOR = '#015f37'
+const TYPE_COLOR = '#c0e4ff'
 
 // === The jquery selector statements for each prefix & color pair:
 $("[data-filter^='.js-id-region--']").
@@ -22,4 +22,4 @@ $("[data-filter^='.js-id-org--']").
 $("[data-filter^='.js-id-tool--']").
   css('background-color', TYPE_COLOR);
 $("[data-filter^='.js-id-product_type--']").
-  css('background-color', 'yellow');
+  css('background-color', TYPE_COLOR);
