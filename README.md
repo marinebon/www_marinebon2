@@ -38,6 +38,9 @@ Above is the most basic workflow for editing the content on this website but adv
 Updating publications requires a bit of technical know-how for now, but this can be automated easily in the future.
 The most important step below is the first one.
 Once you have completed step (1) then a site admin can quickly and easily complete the remaining steps.
+A prerequisite to these steps is to have a .bibtex file.
+`.bibtex` files are human-readable adn can be generated a number of ways.
+MBON's references are currently managed using Zotero, instructions for exporting a `.bibtex` can be found [on this old issue post](https://github.com/marinebon/www_marinebon2/issues/16#issue-898564544).
 
 based on [wowchemy instructions to import-from-bibtex](https://wowchemy.com/docs/content/publications/#import-from-bibtex)
 1. modify `/content/publication/MBON_publications.bib`
