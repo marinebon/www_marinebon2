@@ -1,0 +1,68 @@
+{{- define "main" -}}
+
+<article class="article article-product">
+
+  {{ partial "page_header.html" . }}
+
+  <div class="article-container">
+
+    <div class="article-style">
+      {{ .Content }}
+    </div>
+
+    {{ partial "page_footer" . }}
+
+    <div class="product-related-pages content-widget-hr">
+      {{ $page := . }}
+      {{ $product := .File.ContentBaseName }}
+
+      {{ $items := where (where site.RegularPages "Type" "post") ".Params.products" "intersect" (slice $product) }}
+      {{ $count := len $items }}
+      {{ if ge $count 1 }}
+        <h2>{{ (i18n "posts") }}</h2>
+        {{ range $items }}
+          {{ if eq site.Params.products.post_view 1 }}
+            {{ partial "li_list" . }}
+          {{ else if eq site.Params.products.post_view 3 }}
+            {{ partial "li_card" . }}
+          {{ else }}
+            {{ partial "li_compact" . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ $items := where (where site.RegularPages "Type" "publication") ".Params.products" "intersect" (slice $product) }}
+      {{ $pubs_len := len $items }}
+      {{ if ge $pubs_len 1 }}
+        <h2>{{ (i18n "publications") }}</h2>
+        {{ range $items }}
+          {{ if eq site.Params.products.publication_view 1 }}
+            {{ partial "li_list" . }}
+          {{ else if eq site.Params.products.publication_view 3 }}
+            {{ partial "li_card" . }}
+          {{ else if eq site.Params.products.publication_view 4 }}
+            {{ partial "li_citation" . }}
+          {{ else }}
+            {{ partial "li_compact" . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+
+      {{ $items := where (where site.RegularPages "Type" "event") ".Params.products" "intersect" (slice $product) }}
+      {{ $talks_len := len $items }}
+      {{ if ge $talks_len 1 }}
+        <h2>{{ (i18n "talks") }}</h2>
+        {{ range $items }}
+          {{ if eq site.Params.products.talk_view 1 }}
+            {{ partial "li_list" . }}
+          {{ else if eq site.Params.products.talk_view 3 }}
+            {{ partial "li_card" . }}
+          {{ else }}
+            {{ partial "li_compact" . }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{- end -}}
