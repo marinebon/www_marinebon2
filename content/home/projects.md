@@ -43,4 +43,4 @@ design:
   flip_alt_rows: false
 ---
 
-See more MBON data and software products on [the product viewer page](/product_viewer/). 
+...
