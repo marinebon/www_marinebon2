@@ -106,7 +106,14 @@ There are three options on where to put media:
 # Upstream Tech
 This website is built starting from the [Academic Template](https://github.com/wowchemy/starter-academic) for [Hugo](https://github.com/gohugoio/hugo).
 
-[**Wowchemy**](https://wowchemy.com) was used to set up this website. 
+## [Wowchemy](https://wowchemy.com)
+Wowchemy was used to set up this website. 
 The site can be edited your site in Markdown, Jupyter, or RStudio (via Blogdown).
 Netlify is used to build the site with Hugo and deploy hosting on Netlify.
 A CMS is provided for editing the site using Netlify (or is this a Wowchemy tech?).
+
+Associated wowchemy repositories:
+1. wowchemy core functionality: [wowchemy-hugo-modules](github.com/wowchemy/wowchemy-hugo-modules)
+1. wowchemy template used: [starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)
+1. theme CLI tools: [hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli/)
+2. CMS: [wowchemy/netlify-cms](https://github.com/wowchemy/netlify-cms)
