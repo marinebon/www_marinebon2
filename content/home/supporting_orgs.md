@@ -16,4 +16,4 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="/www_marinebon2/assets/media/albums/supporting_org_logos/ >}}
+{{< gallery album="/www_marinebon2/assets/media/albums/supporting_org_logos/" >}}
