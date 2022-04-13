@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 66
 
-title: Gallery
+title: Supporting Organizations
 subtitle:
 
 design:
   columns: '2'
 ---
 
-{{< gallery album="supporting_org_logos" >}}
+{{< gallery album="/www_marinebon2/assets/media/albums/supporting_org_logos/ >}}
