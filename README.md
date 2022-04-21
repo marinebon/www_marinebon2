@@ -113,7 +113,7 @@ Netlify is used to build the site with Hugo and deploy hosting on Netlify.
 A CMS is provided for editing the site using Netlify (or is this a Wowchemy tech?).
 
 Associated wowchemy repositories:
-1. wowchemy core functionality: [wowchemy-hugo-modules](github.com/wowchemy/wowchemy-hugo-modules)
+1. wowchemy core functionality: [wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules)
 1. wowchemy template used: [starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)
 1. theme CLI tools: [hugo-academic-cli](https://github.com/wowchemy/hugo-academic-cli/)
 2. CMS: [wowchemy/netlify-cms](https://github.com/wowchemy/netlify-cms)
