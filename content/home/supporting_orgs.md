@@ -13,7 +13,7 @@ title: Supporting Organizations
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
-{{< gallery album="/www_marinebon2/assets/media/albums/supporting_org_logos/" >}}
+{{< gallery album="supporting_org_logos" >}}
