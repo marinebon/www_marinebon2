@@ -1,5 +1,18 @@
 MBON marinebon.org Webite
 --------------------------
+
+## :warn: deprecated.
+
+Most of this site has been abandoned in favor of a wordpress site.
+This site remains hosted, however, and some parts of this site are used by the new site via iframe elements.
+The parts of this site linked are listed here:
+
+iframe src                  | target
+----------------------------|-----------------
+marinebon.org/publications/ | /publication/
+
+-------------------------------------------
+
 This is a work-in-progress rebuild of the marinebon.org website.
 Details on how to make edits are below.
 This site is built using wowchemy and although some basic tasks are outlined below the excellent [wowchemy docs](https://wowchemy.com/docs/) are highly recommended reading.
