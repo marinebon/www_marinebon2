@@ -15,6 +15,12 @@
 [context.branch-deploy]
   command = "hugo --gc --minify -b $DEPLOY_PRIME_URL"
 
+[[headers]]
+  # Define which paths this specific [[headers]] block will cover.
+  for = "/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
   [plugins.inputs]
