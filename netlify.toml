@@ -20,6 +20,12 @@
   for = "/*"
     [headers.values]
     Access-Control-Allow-Origin = "*"
+  for = "/publication/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
+  for = "/content/publication/*"
+    [headers.values]
+    Access-Control-Allow-Origin = "*"
 
 [[plugins]]
   package = "netlify-plugin-hugo-cache-resources"
