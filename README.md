@@ -104,6 +104,18 @@ Wowchemy is designed to leverage lots of free cloud tools to allow CMS & WYSiWYG
 The [wowchemy "edit on your pc" page](https://wowchemy.com/docs/getting-started/install-hugo-extended/) outlines how to get set up building the site on your local machine rather than relying on netlify (or github actions or travis CI or whatever).
 This is useful for editing without needing to do a commit - something that is especially valuable when making lots of small test changes (looking at you, CSS) or debugging build issues.
 
+## hugo layout/page/etc lookup chain
+This is the order in which files are used. Files from earlier in the chain will override files later in the chain.
+
+.  | location  | note                                         | desc                   
+---|-----------|----------------------------------------------|------------
+1  | local     | .                                            | files in this repo
+2  |           | actual theme loc                             | [wowchemy-hugo-themes/modules/wowchemy](https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/modules/wowchemy)
+?  | template  | not used. this is only the demo site.        | [starter-hugo-academic](https://github.com/wowchemy/starter-hugo-academic)
+
+As an example: if a page is using layout=publication, `marinebon/www_marinebon2/layouts/publication/` will be used if it exists, else `/wowchemy/wowchemy-hugo-themes/modules/wowchemy/layouts/publication/` will be used.
+
+
 ## A note on media content
 We ran into issues setting up where to put media content (see [#10](https://github.com/marinebon/www_marinebon2/issues/10)).
 There are three options on where to put media:
