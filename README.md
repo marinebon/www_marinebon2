@@ -3,8 +3,8 @@ MBON marinebon.org Webite
 
 ## :warning: deprecated.
 
-Most of this site has been abandoned in favor of a wordpress site.
-Information about the wordpress site is in [marinebon/marinebon_wordpress_website](https://github.com/marinebon/marinebon_wordpress_website).
+### Most of this site has been abandoned in favor of a wordpress site.
+### Information about the new site is in [marinebon/marinebon_wordpress_website](https://github.com/marinebon/marinebon_wordpress_website).
 
 This site remains hosted, however, and some parts of this site are used by the new site via iframe elements.
 
