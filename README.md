@@ -1,17 +1,20 @@
 MBON marinebon.org Webite
 --------------------------
 
-## :warn: deprecated.
+## :warning: deprecated.
 
 Most of this site has been abandoned in favor of a wordpress site.
+Information about the wordpress site is in [marinebon/marinebon_wordpress_website](https://github.com/marinebon/marinebon_wordpress_website).
+
 This site remains hosted, however, and some parts of this site are used by the new site via iframe elements.
+
 The parts of this site linked are listed here:
 
 iframe src                  | target
 ----------------------------|-----------------
 marinebon.org/publications/ | /publication/
 
--------------------------------------------
+----------------------------------------------
 
 This is a work-in-progress rebuild of the marinebon.org website.
 Details on how to make edits are below.
